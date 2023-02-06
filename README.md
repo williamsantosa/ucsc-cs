@@ -1,8 +1,6 @@
-# Surviving the University of California, Santa Cruz
+# A Guide to the University of California, Santa Cruz's Computer Science Majors
 
-A guide to the University of California, Santa Cruz's Bachelor of Science in Computer Science classes. Contains descriptions of Computer Science & Engineering (CSE) classes, relevant coursework, 
-
-## Credits
+This guide is intended to be read by prospective computer science students and incoming freshmen, however, current students may find portions of the text to be useful as well. Includes information on the Bachelor of Science and Bachelor of Arts in Computer Science majors, as well as the Bachelor of Science in Computer Science: Computer Game Design (CSGD) major. Among other things, contains descriptions of relevant courses, discussion on programming languages you will use, requirements to graduate, as well as ratings on professors and classes you will encounter.
 
 Authors: 
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
@@ -16,12 +14,61 @@ Editors:
 
 ## Introduction
 
+This guide is intended to be read by freshmen computer science majors
 
+## Subjects
 
-## Table of Contents
+There are a few subjects that everyone will have to encounter as a computer science major.
+
+- Programming
+- Computer Architecture
+- Algorithms and Data Structures
+- Math (CS)
+- Operating Systems
+- Computer Networking
+
+And here are some other topics that you may encounter as an upper division elective.
+
+- Databases
+- Languages and Compilers
+- Distributed Systems
+- 3D Modeling
+
+## Languages
+
+You will definitely use these languages.
+
+- Python
+- C
+- C++
+- MIPS / RISC-V
+- Haskell (CSE 114A)
+
+Depending on your electives, you may use these languages.
+
+- JavaScript
+- C#
 
 ## Graduation Requirements
+
+### General Education
+
+### Major Requirements
+
+#### B.S in Computer Science
+
+#### B.A in Computer Science
+
+#### B.S in Computer Science: Computer Game Design
 
 ## Classes
 
 ## Professors
+
+## Tips and Tricks
+
+## What to Study Before Attending University
+
+## Research Experience
+
+## Planning for Graduate School
