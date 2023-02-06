@@ -4,10 +4,8 @@ This guide is intended to be read by prospective computer science students and i
 
 Authors: 
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
-- Gregory Santosa - 
-- Arrian Chi - 
-
-Editors:
+- Gregory Santosa - [GitHub](https://github.com/gregorysantosa)
+- Arrian Chi - [GitHub](https://github.com/dinoplane)
 
 ## Table of Contents
 
@@ -50,12 +48,14 @@ You will definitely use these languages.
 - C
 - C++
 - MIPS / RISC-V
-- Haskell (CSE 114A)
 
 Depending on your electives, you may use these languages.
 
 - JavaScript
 - C#
+- R
+- MatLab
+- Haskell (CSE 114A)
 
 ## Graduation Requirements
 
