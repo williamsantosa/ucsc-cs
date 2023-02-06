@@ -69,11 +69,14 @@ Depending on your electives, you may use these languages.
 
 #### B.S in Computer Science: Computer Game Design
 
+
+
 ## Classes
 
 ## Professors
 
 ## Tips and Tricks
+Take a shower.
 
 ## What to Study Before Attending University
 
