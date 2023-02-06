@@ -1,6 +1,6 @@
 # Surviving the University of California, Santa Cruz
 
-A guide to the University of California, Santa Cruz's computer science major classes. Contains descriptions of Computer Science & Engineering (CSE) classes 
+A guide to the University of California, Santa Cruz's Bachelor of Science in Computer Science classes. Contains descriptions of Computer Science & Engineering (CSE) classes, relevant coursework, 
 
 ## Credits
 
@@ -19,6 +19,8 @@ Editors:
 
 
 ## Table of Contents
+
+## Graduation Requirements
 
 ## Classes
 
