@@ -10,16 +10,17 @@ Authors:
 Media:
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
 
-
 ## Table of Contents
 
 1. [Introduction](#Introduction)
 2. [Subjects](#Subjects)
 3. [Languages](#Languages)
+4. we'll add this later after it's finalized
 
 ## Introduction
 
-This guide is intended to be read by freshmen computer science majors
+- Introduce the computer science degrees
+- 
 
 ### Quick Note for Non-CS admittees
 
@@ -102,8 +103,46 @@ Take a shower.
 3. Read over some proofs.
 4. Learn common data structures and algorithms (DSAs).
 
-## Research Experience
-
 ## Planning for Graduate School
 
-## Tips and Tricks
+### Research Experience
+
+### Talking to Professors
+
+## Other Tips and Tricks
+
+- Briefly talk about tips and tricks, what the section includes
+
+### Tutoring & Reading & Note Taking
+
+- Discuss what tutoring and reading is, the difference between the two
+- Talk about the pay, provide links
+- Introduce the following types of tutoring and reading
+
+#### Learning Support Services (LSS)
+
+- https://lss.ucsc.edu/
+
+#### Baskin School of Engineering (BSOE/RTA System)
+
+- https://organization.soe.ucsc.edu/reader-and-tutor-hiring
+
+#### Note Taking
+
+- Sometimes get emailed for taking notes for your classes
+- $25/unit
+
+### RateMyProfessor
+
+- https://www.ratemyprofessors.com/
+
+### Best Locations
+
+- Write introduction paragraph for locations on campus
+- Overnight, study, bathrooms, etc
+
+#### Study Locations
+
+#### Overnight Areas
+
+#### Bathrooms
