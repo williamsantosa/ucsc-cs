@@ -4,17 +4,25 @@ This guide is intended to be read by prospective computer science students and i
 
 Authors: 
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
-
-Contributors:
-- Gregory Santosa
+- Gregory Santosa - 
+- Arrian Chi - 
 
 Editors:
 
 ## Table of Contents
 
+1. [Introduction](#Introduction)
+2. [Subjects](#Subjects)
+3. [Languages](#Languages)
+
+
 ## Introduction
 
 This guide is intended to be read by freshmen computer science majors
+
+### What is Computer Science?
+
+Theory, algorithms, programming languages, architecture.
 
 ## Subjects
 
@@ -68,6 +76,11 @@ Depending on your electives, you may use these languages.
 ## Tips and Tricks
 
 ## What to Study Before Attending University
+
+1. Learn a language (Rec: Python & C).
+2. Learn a second language. Compare and contrast the two, understand what it fully going on underneath everything (like JavaScript's `in` vs. `of` when iterating over an object or how values are being stored in languages).
+3. Read over some proofs.
+4. Learn common data structures and algorithms (DSAs).
 
 ## Research Experience
 
