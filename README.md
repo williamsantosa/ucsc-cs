@@ -7,12 +7,14 @@ Authors:
 - Gregory Santosa - [GitHub](https://github.com/gregorysantosa)
 - Arrian Chi - [GitHub](https://github.com/dinoplane)
 
+Media:
+- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
+
 ## Table of Contents
 
 1. [Introduction](#Introduction)
 2. [Subjects](#Subjects)
 3. [Languages](#Languages)
-
 
 ## Introduction
 
@@ -56,12 +58,21 @@ Depending on your electives, you may use these languages.
 - R
 - MatLab
 - Haskell (CSE 114A)
+- LaTeX
+
+Some useful ones you should definitely consider learning.
+
+- LaTeX
+- Markdown
+- HTML
 
 ## Graduation Requirements
 
 ### General Education
 
-### Major Requirements
+### Major Requirements (2020 Graduates)
+
+The major requirements
 
 #### B.S in Computer Science
 
@@ -69,19 +80,21 @@ Depending on your electives, you may use these languages.
 
 #### B.S in Computer Science: Computer Game Design
 
+## Key Terms
+
 ## Classes
 
 ## Professors
 
-## Tips and Tricks
-
 ## What to Study Before Attending University
 
 1. Learn a language (Rec: Python & C).
-2. Learn a second language. Compare and contrast the two, understand what it fully going on underneath everything (like JavaScript's `in` vs. `of` when iterating over an object or how values are being stored in languages).
+2. Learn a second language. Compare and contrast the two, understand what it fully going on underneath everything (like JavaScript's `in` vs. `of` when iterating over an object or how values are being stored in certain programming languages).
 3. Read over some proofs.
 4. Learn common data structures and algorithms (DSAs).
 
 ## Research Experience
 
 ## Planning for Graduate School
+
+## Tips and Tricks
