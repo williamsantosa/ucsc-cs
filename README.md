@@ -4,7 +4,7 @@ This guide is intended to be read by prospective computer science students and i
 
 Authors: 
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
-- Gregory Santosa - [GitHub](https://github.com/gregorysantosa)
+- Gregory Santosa - [Email](mailto:gs2396@hotmail.com) | [GitHub](https://github.com/gregorysantosa) | [LinkedIn] (https://www.linkedin.com/in/gregory-santosa/)
 - Arrian Chi - [GitHub](https://github.com/dinoplane)
 
 Media:
