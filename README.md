@@ -21,6 +21,11 @@ Media:
 
 This guide is intended to be read by freshmen computer science majors
 
+### Quick Note for Non-CS admittees
+
+- Talk about impacted (CS is impacted)
+- Discuss how hard it is to CS, may only be able to take a few CS classes
+
 ### What is Computer Science?
 
 Theory, algorithms, programming languages, architecture.
