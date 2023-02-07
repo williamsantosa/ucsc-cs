@@ -177,7 +177,7 @@ There are a few things you should prepare if you are planning on going to gradua
 
 ### Talking to Professors
 
-Most graduate schools require 3 recommendation letters from people you have worked with. Consequently, you should try to talk or even work with some of the professors at UCSC. A good way to work with them is to be active and get good grades in their class, then ask if they have any projects they need help on. Alternatively, you can also tutor for them and that'll also increase your chances of getting a recommendation letter from them. If there are no opportunities to do so, it also doesn't hurt to ask them for a recommendation letter if you did good in their class.
+Most graduate schools require 3 recommendation letters from people you have worked with. Consequently, you should try to talk or even work with some of the professors at UCSC. A good way to work with them is to be active and get good grades in their class, then ask if they have any projects they need help on after class or via email. Alternatively, you can also tutor for them and that'll also increase your chances of getting a recommendation letter from them. If there are no opportunities to do so, it also doesn't hurt to ask them for a recommendation letter if you did good in their class.
 
 ### Maintain a good GPA
 
@@ -221,7 +221,7 @@ Sometimes, if a student has good academic standing they will get emailed to take
 There are a few study locations:
 - Science & Engineering Library
 - McHenry Library
-- Gaming Lab (if you hae access)
+- Gaming Lab (if you have access)
 
 Rooms within the library can be reserved [here](https://guides.library.ucsc.edu/reserve-a-study-room) and you can reserve up to a week in advance.
 
