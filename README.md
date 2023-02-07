@@ -317,6 +317,32 @@ Remarks:
 
 - Best and worst bathrooms (link to the reddit post lmao)
 
+### Services
+
+#### SHS
+
+- talk about SHS
+
+#### CAPS
+
+- talk about CAPS
+
+#### Slug Support Pantry
+
+- talk about Slug Support Pantry
+
+#### Basic Needs Support
+
+- talk about Basic Needs Support
+
+#### Applying for DRC
+
+- talk about DRC
+
+### Connecting with other Students
+
+- talk about connecting with other students
+
 ## Acknowledgements
 
 Thank you to ... `<insert people here>`
