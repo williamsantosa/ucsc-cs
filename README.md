@@ -1,6 +1,12 @@
 # A Guide to the University of California, Santa Cruz's Computer Science Majors
 
+| ![https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth](Media/Banner.jpg) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                   *The Universty of California, Santa Cruz's campus*                                                    |
+
 This guide is intended to be read by prospective computer science students and incoming freshmen, however, current students may find portions of the text to be useful as well. Includes information on the Bachelor of Science and Bachelor of Arts in Computer Science majors, as well as the Bachelor of Science in Computer Science: Computer Game Design (CSGD) major. Among other things, contains descriptions of relevant courses, discussion on programming languages you will use, requirements to graduate, as well as ratings on professors and classes you will encounter.
+
+## Contributors
 
 Authors: 
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
@@ -12,37 +18,65 @@ Media:
 
 ## Table of Contents
 
-1. [Introduction](#Introduction)
-2. [Subjects](#Subjects)
-3. [Languages](#Languages)
-4. we'll add this later after it's finalized
+- [A Guide to the University of California, Santa Cruz's Computer Science Majors](#a-guide-to-the-university-of-california-santa-cruzs-computer-science-majors)
+  - [Contributors](#contributors)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Quick Note for Non-CS admittees](#quick-note-for-non-cs-admittees)
+    - [What is Computer Science?](#what-is-computer-science)
+    - [Bachelor of Art or Science?](#bachelor-of-art-or-science)
+    - [Computer Science: Computer Game Design](#computer-science-computer-game-design)
+  - [Subjects](#subjects)
+  - [Languages](#languages)
+  - [Graduation Requirements](#graduation-requirements)
+    - [General Education](#general-education)
+    - [Major Requirements (2022-2023)](#major-requirements-2022-2023)
+  - [Classes](#classes)
+  - [Professors](#professors)
+  - [Preparing for University](#preparing-for-university)
+  - [Planning for Graduate School](#planning-for-graduate-school)
+    - [Talking to Professors](#talking-to-professors)
+    - [Maintain a good GPA](#maintain-a-good-gpa)
+    - [Research Experience](#research-experience)
+  - [Tips and Tricks](#tips-and-tricks)
+    - [Tutoring, Reading, \& Note Taking](#tutoring-reading--note-taking)
+      - [Baskin School of Engineering (BSOE/RTA System)](#baskin-school-of-engineering-bsoerta-system)
+      - [Learning Support Services (LSS)](#learning-support-services-lss)
+      - [Note Taking](#note-taking)
+    - [RateMyProfessor](#ratemyprofessor)
+    - [Best Locations](#best-locations)
+      - [Study Locations](#study-locations)
+      - [Overnight Areas](#overnight-areas)
+      - [Bathrooms](#bathrooms)
+    - [Services](#services)
+      - [Counseling \& Psychological Services (CAPS)](#counseling--psychological-services-caps)
+      - [Slug Support Pantry](#slug-support-pantry)
+      - [Disability Resource Center (DRC)](#disability-resource-center-drc)
+  - [Acknowledgements](#acknowledgements)
+  - [Further Learning Material](#further-learning-material)
+  - [References](#references)
 
 ## Introduction
 
-- Introduce the computer science degrees
-- BS in CS, BA in CS, BS in CSGD
-- State that we will talk about BA vs BS in CS
+The University of California, Santa Cruz, is well known for its beautiful campus and excellent education. The B.S in Computer Science: Computer Game Design degree at UCSC is reported to be in the [top five computer science game design degrees](https://lookout.co/santacruz/ucsc-cabrillo/story/2022-09-15/ucsc-groundbreaking-computer-game-program-top-5-nationally-charts-astonishing-path#:~:text=U.S.%20News%20and%20World%20Report,to%20its%202022%2D23%20analysis.) in the United States. Additionally, the B.S and B.A in Computer Science degree is reported to be [one of the top ten in California, and among the top fifty across the country](https://www.usnews.com/best-graduate-schools/top-science-schools/university-of-california-santa-cruz-110714). We will discuss the differences between the Computer Science Bachelor of Arts and Bachelor of Science degrees, and talk about the Computer Science: Computer Game Design degree.
 
 ### Quick Note for Non-CS admittees
 
-- Talk about impacted (CS is impacted)
-- Discuss how hard it is to switch into CS, may only be able to take a few CS classes or none at all
+Computer science at UCSC is impacted, meaning that it is a very popular, difficult major to get admitted into. Unfortunately, this also means that switching into computer science is very difficult. If you want to major in CS and were not admitted, it is a good idea to take another offer that allows you to do CS. Alternatively, you can also do two years of community college and transfer as a junior. That way, you will can get a degree in CS while also saving money.
 
 ### What is Computer Science?
 
-- Define CS (study of computers)
-- Theory, algorithms, programming languages, architecture.
-- Includes programming, which will happen a lot in lower division
-- Proofs (CSE 16), computer architecture (CSE 12/120), etc
+"Science" refers to the study of something. Consequently, "computer science" refers to the study of computers. A typical computer science curriculum is composed of studying theory, algorithms, programming languages, and architecture. Computer science students will often find themselves not programming for long periods of time, sometimes even for an entire quarter. Some things that students do other than programming include formulating proofs, plotting diagrams, and writing documentation or writeups on their programs.
 
 ### Bachelor of Art or Science?
 
-- Bachelor of Art vs Bachelor of Science
-- List out some class requirements
-- BA is the same as BS until upper division
-- Talk about how one is geared for graduate school and the other provides more flexibility in upper division classes
-- Can always switch from BS to BA
-- BA to BS requires 3.0 GPA and an appeal
+Both the Bachelor of Art (B.A) and Bachelor of Science (B.S) in Computer Science are great degrees. They are crafted such that students are exposed to "a rigorous curriculum" ([Registrar](https://registrar.ucsc.edu/catalog/archive/15-16/programs-courses/program-statements/cmps.html)) and their lower division requirements are practically the same. All students have to complete the same Math courses (save for Math 23A), the same Computer Science & Engineering (CSE) courses, and complete CSE 101 in order to graduate. However, the B.A degree offers more flexibility in the upper division electives allowed, while the B.S is designed to prepare the student for research and post-undergraduate programs.
+
+It is easy to switch from a B.S to a B.A, however, switching from a B.A to B.S requires: 
+1. An appeal to the university
+2. Maintaing good academic standing (3.0 GPA)
+
+Both of the requirements are not terribly difficult, but they do require some planning ahead of time.
 
 ### Computer Science: Computer Game Design
 
@@ -50,251 +84,132 @@ Media:
 
 ## Subjects
 
-There are a few subjects that everyone will have to encounter as a computer science major.
+There are a few subjects that everyone will have to encounter as a computer science major. Namely,
 
-- Programming
-- Computer Architecture
-- Algorithms and Data Structures
-- Math (CS)
-- Operating Systems
+- Programming - Planning and generating instructions to give to a machine.
+- Computer Architecture - The functionality, management, and implementation of computer systems.
+- Data Structures - Structure used to hold data, like LinkedLists, Heaps, and Trees.
+- Algorithms - Methods of solving problems efficiently using data structure.
+- Math (CS) - Math topics like Calculus and Linear Algebra.
+- Operating Systems - System software that manages computer hardware, software resources, and provides services for computer programs.
 
-And here are some other topics that you may encounter as an upper division elective.
+The following are more topics that students may encounter at UCSC.
 
-- Databases
-- Languages and Compilers
-- Distributed Systems
-- 3D Modeling
-- Computer Networking
-
-### Programming
-
-- What is programming and how is it different than coding
-- Talk about programs we would make in our classes (like CSE 30, linkedlist and biginteger and CSE 13s stuff)
-- Languages, which is referenced in the other section
-- Upper division programming vs lower div
-
-### Computer Architecture
-
-- What is computer architecture
-- What is a low-level vs high-level language
-- What is assembly
-
-### Algorithms and Data Structures
-
-- What are algorithms and data structures and what are they used for
-- What are some algorithms and data structures (LinkedList, Trees, Heap, Graphs)
-- Examples (Queue being used in a line, or restaurant)
-
-### Math (CS)
-
-- You will have to take math classes ):
-- Calculus, Linear Algebra, Statistics
-
-### Operating Systems
-
-- Ties into assembly languages
-- What your computer is run on
-- Low-level languages
-- Discuss it
+- Databases - A structured way to hold data (like a table).
+- Languages and Compilers - The way code is interpreted through your system.
+- Distributed Systems - A computing environment where components are spread across many computers.
+- 3D Modeling - Generating models using modeling software.
+- Computer Networking - Interconnected computing devices that can exchange data and share resources with one another.
 
 ## Languages
 
 You will definitely use these languages.
 
-- Python
-- C
-- C++
-- MIPS / RISC-V
+- Python - High-level language. Slow to compute but fast to write.
+- C - Low-level language. Blazingly fast but slow to write. Prone to many errors.
+- C++ - Intermediate-level language. Easier to write in relative to C but trades some performance as a result. 
+- MIPS / RISC-V - Assembly language. Will be used in Computer Architecture classes (CSE 12/120).
 
-Depending on your electives, you may use these languages.
+Depending on your interests, you may use these languages.
 
-- JavaScript
-- C#
-- R
-- MatLab
-- Haskell (CSE 114A)
-- LaTeX
+- JavaScript - High-level language which create mobile and desktop apps, along with full-stack applications.
+- C# - High-level language creating mobile and desktop apps, cloud-based services, and more.
+- R - Mathematical programming language.
+- MatLab - Mathematical programming language.
+- Haskell - Functional programming language. Free of side effects, used in Functional Programming classes (CSE 114A).
 
 Some useful ones you should definitely consider learning.
 
-- LaTeX
-- Markdown
-- HTML
-
-### Python
-
-- High-level language
-- Lots of libraries
-- Will be used extensively in classes
-
-### C
-
-- Low-level language
-- Lots of support, blazingly fast
-- Will be used extensively in classes
-
-### C++
-
-- Object-oriented programming language with C features
-- Like C but with encapsulation, data hiding, abstraction, inheritance, etc
-- More libraries and functions to use
-- A bit slower than C but still much faster than Python
-
-### MIPS / RISC-V
-
-- Assembly language
-- What is it used for?
-- How does assembly language work in the overall scheme of things? (C code compiled into binaries how) 
+- LaTeX - Powerful and complex markup language.
+- Markdown - Fast, simple, and lightweight markup language.
+- HTML - The markup standard for web pages.
 
 ## Graduation Requirements
 
-- Talk about graduation requirements
-- Link the graduation requirement website
+Everyone wants to graduate... which means it is imperative that you plan out your classes ahead of time! Below are the requirements to graduate.
 
 ### General Education
 
-- Link GE website
-- Talk about the 10 things you need, and overview of what they are
-- Maybe take 1 per quarter
+The general education requirements can be found [here](https://registrar.ucsc.edu/enrollment/general-education-requirements.html) at the Registrar. It is recommended that you do not rush through the GEs as they can be finished quite quickly if you take 1 or 2 per quarter. Instead, space them out throughout your undergraduate career, as they are useful in padding classes during difficult quarters.
 
-### Major Requirements (2020)
+### Major Requirements (2022-2023)
 
-- Might be slightly outdated, but this is what we did to graduate
-- The major requirements differ for each major, but the lower divisions are fairly similar
-- Add something something, link updated page and our 2020 page for graduating
-
-#### B.S in Computer Science
-
-- Lower divs very similar
-- Upper division more rigid than B.A
-- Lots of the classes are required, like CSE 102/103/130
-- Expand upon
-
-#### B.A in Computer Science
-
-- Lower divs very similar
-- More elective choices and more electves in general
-- Less required classes (like CSE 130)
-- Expand upon
-
-#### B.S in Computer Science: Computer Game Design
-
-- Arrian talk about this
-
-## Key Terms
-
-- Abstractions
-- Programming
-- Scripting
-- Diagram
-- Etc just add stuff
+The curriculum charts can be found [here](https://undergrad.soe.ucsc.edu/curriculum-charts) at the university's webpage. More specifically, [B.S in Computer Science](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CS_BS_22-23.pdf), [B.A in Computer Science](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CS_BA_22-23.pdf), and [B.S in Computer Science: Computer Game Design](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CSGD_BS_22-23.pdf).
 
 ## Classes
 
-- Add for all classes we'll take
-- Introduce UCSC classes, what are some of the common ones we'll see CSE is Computer Science & Engineering, CMPM is Computational Media, etc...
-- Add a remark that some people might find the difficulties higher or lower depending on the subject and mastery coming into university
+The classes at UCSC are structured such that the subject comes first, follow by their course number, followed by the course title. In other words, `subject course_number - course_title`. Lower division courses range from 1 - 99, upper division courses from 100 - 199, and seminars/graduate courses are 200+. Some common subjects can be seen in the chart below.
 
-Format example (description just take from courses.soe.ucsc.edu/courses/cse30 lol):
+| Subject                        | Acronym |
+| :----------------------------- | :------ |
+| Computer Science & Engineering | CSE     |
+| Computational Media            | CMPM    |
+| Mathematics                    | MATH    |
+| Statistics                     | STAT    |
+| Writing                        | WRIT    |
 
-**CSE 30 - Programming Abstractions: Python**
-
-Introduction to software development in Python focusing on structuring software in terms of objects endowed with primitive operations. Introduces concepts and techniques via a sequence of concrete case studies. Coursework consists of programming assignments and a final examination.
-
-Quality: ![](./Media/3_5star.png)
-Difficulty: ![](./Media/2_5star.png)
-
-Remarks:
-
-- Add extra notes here if needed
-- Extra notes (2)
+List of Classes:
+1. [CSE 20 - Beginning Programming in Python](https://github.com/williamsantosa/ucsc-cs/blob/main/Classes/CSE20.md)
+2. [CSE 30 - Programming Abstractions: Python](https://github.com/williamsantosa/ucsc-cs/blob/main/Classes/CSE30.md)
 
 ## Professors
 
-- Add for all Professors we've worked with
-- Introduce some Professors
+There are plenty of Professors at UCSC, all of which are notable in their own field of study. Below are some of the Professors you may meet.
 
-Format example:
+List of Professors:
+1. [Darell Long](https://github.com/williamsantosa/ucsc-cs/blob/main/Professors/DarellLong.md)
 
-**Professor Darrell Long ([RateMyProfessor](https://www.ratemyprofessors.com/professor?tid=304658))**
+## Preparing for University
 
-Longtime Professor at the University of California, Santa Cruz.
+Having come into University with minimal Computer Science experience, there are a few I would recommend people to do.
 
-Quality: ![](./Media/5star.png)
-Difficulty: ![](./Media/5star.png)
-
-Traits:
-
-- Tough grader
-- Reader
-- Lots of homework
-
-Classes Taught:
-
-- CSE 13S
-
-Remarks:
-
-- Add extra notes here if needed
-- Extra notes (2)
-
-## What to Study Before Attending University
-
-1. Learn a language (Rec: Python & C).
-2. Learn a second language. Compare and contrast the two, understand what it fully going on underneath everything (like JavaScript's `in` vs. `of` when iterating over an object or how values are being stored in certain programming languages).
-3. Read over some proofs.
-4. Learn common data structures and algorithms (DSAs).
+1. Take AP Computer Science (if possible) in High School.
+   1. Take community college classes if you can handle the workload. Saves a lot of money and time in the future.
+2. Learn a language (Java, Python, or C).
+3. Learn a second language. Compare and contrast the two, understand what it fully going on underneath everything (like JavaScript's `in` vs. `of` when iterating over an object or how values are being stored in certain programming languages).
+4. Watch a YouTube video about what proofs and assembly language are.
+   1. Look at examples of proofs and assembly language.
+5. Learn common data structures and algorithms (LinkedList, Tree, Array).
 
 ## Planning for Graduate School
 
-- Graduate school requirements
-
-### Research Experience
-
-- Research is important for graduate school, although not required for a masters degree
-- Talk to Professors (look below)
+There are a few things you should prepare if you are planning on going to graduate school. Namely, talking to professors, having a good GPA, and getting experience in research.
 
 ### Talking to Professors
 
-- You NEED 3 recommendation letters for most graduate schools
-- Make sure to talk with some professors and do well in their classes
-- If you get research experience, even better, can ask them for rec letter later
+Most graduate schools require 3 recommendation letters from people you have worked with. Consequently, you should try to talk or even work with some of the professors at UCSC. A good way to work with them is to be active and get good grades in their class, then ask if they have any projects they need help on after class or via email. Alternatively, you can also tutor for them and that'll also increase your chances of getting a recommendation letter from them. If there are no opportunities to do so, it also doesn't hurt to ask them for a recommendation letter if you did good in their class.
 
 ### Maintain a good GPA
 
-- Talk about some GPA statistics for schools
-- GPA is important, but doing stuff outside of classes is important too
-  - Do research, talk to professors
-  - Make some side projects
-- Don't stress about it though, many of our friends have been able to get into graduate school without great GPAs
+Another major factor of getting into graduate schools is having a good GPA (3.5+). Having this along with other extracurriculars is a surefire way to increase your chances of getting into graduate school. After all, undergraduate academics is a good way to measure your likelihood of doing well in graduate school.
+
+### Research Experience
+
+Lastly, research experience is also important for graduate school, although not explicitly required. For a doctorate, research is almost certainly required, however, for a masters degree, it is a great addition but not needed.
 
 ## Tips and Tricks
 
-- Briefly talk about tips and tricks, what the section includes
-- Some useful stuff
+This section will cover some neat tips and tricks we've uncovered during our time at UCSC. Some topics include ways of making money, best locations, and services.
 
-### Tutoring & Reading & Note Taking
+### Tutoring, Reading, & Note Taking
 
-- Discuss what tutoring and reading is, the difference between the two
-- Talk about the pay, provide links
-- Introduce the following types of tutoring and reading
-
-#### Learning Support Services (LSS)
-
-- https://lss.ucsc.edu/
+Some of the campus jobs you may run into are tutoring, reading, and note taking. Tutors are exactly what it sounds like, after completing a class with at least a B, students can apply to teach students. Readers are essentially graders for a class, and note takers take notes for their current class.
 
 #### Baskin School of Engineering (BSOE/RTA System)
 
-- https://organization.soe.ucsc.edu/reader-and-tutor-hiring
+The baskin school of engineering offers students tutor and reader positions for students they've completed. students have to apply [here](https://organization.soe.ucsc.edu/reader-and-tutor-hiring) and specify the class and professor they want to work for. Applications generally open up near the end of the prior quarter.
+
+#### Learning Support Services (LSS)
+
+The learning support services sometimes emails students with good academic standing to tutor for a recently completed class. Alternatively, students may also apply [here](https://lss.ucsc.edu/) to work as well.
 
 #### Note Taking
 
-- Sometimes get emailed for taking notes for your classes
-- $25/unit
+Sometimes, if a student has good academic standing they will get emailed to take notes for a currently enrolled class. They offer $25 per class unit, e.g $125 for a 5 unit class. I would generally shy away from this offer unless you religiously take notes, as you are required to take notes on every single lecture.
 
 ### RateMyProfessor
 
-- https://www.ratemyprofessors.com/
+[RateMyProfessor](https://www.ratemyprofessors.com/) is a useful website which has fairly accurate reviews of professors. Keep in mind, however, that most of the people who post a review either loved or hated the professor and will generally have a strong bias.
 
 ### Best Locations
 
@@ -303,11 +218,13 @@ Remarks:
 
 #### Study Locations
 
-- Introduce study locations
-- Science & Engineering (with friends)
-- McHenry (with friends)
-- Game Lab (if you have access)
-- Talk about how you can reserve a spot, add links
+There are a few study locations:
+- Science & Engineering Library
+- McHenry Library
+- Gaming Lab (if you have access)
+- DARC 308 (when class is not in session)
+
+Rooms within the library can be reserved [here](https://guides.library.ucsc.edu/reserve-a-study-room) and you can reserve up to a week in advance.
 
 #### Overnight Areas
 
@@ -319,29 +236,19 @@ Remarks:
 
 ### Services
 
-#### SHS
+There are a lot of useful services at UCSC, here are a few.
 
-- talk about SHS
+#### Counseling & Psychological Services (CAPS)
 
-#### CAPS
-
-- talk about CAPS
+Provides counseling for mental health issues. Their website can be found [here](https://caps.ucsc.edu/). 
 
 #### Slug Support Pantry
 
-- talk about Slug Support Pantry
+Food bank for students who cannot afford food. Their website can be found [here](https://basicneeds.ucsc.edu/campus-resources%20/food.html).
 
-#### Basic Needs Support
+#### Disability Resource Center (DRC)
 
-- talk about Basic Needs Support
-
-#### Applying for DRC
-
-- talk about DRC
-
-### Connecting with other Students
-
-- talk about connecting with other students
+Provides many different services, such as vans, counseling, and DRC status for exams. Depending on the Professor, may take exam in a separate location, online, get extra time, etc. Their website can be found [here](https://drc.ucsc.edu/).
 
 ## Acknowledgements
 
@@ -356,3 +263,5 @@ Thank you to ... `<insert people here>`
 
 1. https://www.ratemyprofessors.com/
 2. https://courses.soe.ucsc.edu/
+3. https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth
+4. https://registrar.ucsc.edu/catalog/archive/15-16/programs-courses/program-statements/cmps.html
