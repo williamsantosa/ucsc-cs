@@ -20,9 +20,9 @@ Media:
 
 1. [Introduction](#Introduction)
    1. [Quick Note for Non-CS admittees](#Quick-Note-for-Non-CS-admittees)
-   2. [What is Computer Science?](#What-is-Computer-Science?)
-   3. [Bachelor of Art or Science?](#Bachelor-of-Art-or-Science?)
-   4. [Computer Science: Computer Game Design](#Computer-Science:-Computer-Game-Design)
+   2. [What is Computer Science?](#What-is-Computer-Science)
+   3. [Bachelor of Art or Science?](#Bachelor-of-Art-or-Science)
+   4. [Computer Science: Computer Game Design](#Computer-Science-Computer-Game-Design)
 2. [Subjects](#Subjects)
 3. [Languages](#Languages)
 4. we'll add this later after it's finalized
