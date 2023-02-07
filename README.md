@@ -81,6 +81,7 @@ Both of the requirements are not terribly difficult, but they do require some pl
 ### Computer Science: Computer Game Design
 
 - Arrian talk about this -- make similar to above
+- Discuss what is the CSGD major and what exactly do you do
 
 ## Subjects
 
@@ -215,6 +216,7 @@ Sometimes, if a student has good academic standing they will get emailed to take
 
 - Write introduction paragraph for locations on campus
 - Overnight, study, bathrooms, etc
+- Expand on this
 
 #### Study Locations
 
@@ -253,6 +255,7 @@ Provides many different services, such as vans, counseling, and DRC status for e
 ## Acknowledgements
 
 Thank you to ... `<insert people here>`
+- Add some people lol
 
 ## Further Learning Material
 
