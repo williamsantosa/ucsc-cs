@@ -164,6 +164,7 @@ List of Professors:
 Having come into University with minimal Computer Science experience, there are a few I would recommend people to do.
 
 1. Take AP Computer Science (if possible) in High School.
+   1. Take community college classes if you can handle the workload. Saves a lot of money and time in the future.
 2. Learn a language (Java, Python, or C).
 3. Learn a second language. Compare and contrast the two, understand what it fully going on underneath everything (like JavaScript's `in` vs. `of` when iterating over an object or how values are being stored in certain programming languages).
 4. Watch a YouTube video about what proofs and assembly language are.
