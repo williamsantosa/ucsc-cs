@@ -1,6 +1,10 @@
 # A Guide to the University of California, Santa Cruz's Computer Science Majors
 
+![https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth](Media/Banner.jpg)
+
 This guide is intended to be read by prospective computer science students and incoming freshmen, however, current students may find portions of the text to be useful as well. Includes information on the Bachelor of Science and Bachelor of Arts in Computer Science majors, as well as the Bachelor of Science in Computer Science: Computer Game Design (CSGD) major. Among other things, contains descriptions of relevant courses, discussion on programming languages you will use, requirements to graduate, as well as ratings on professors and classes you will encounter.
+
+## Contributors
 
 Authors: 
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
@@ -195,19 +199,9 @@ Some useful ones you should definitely consider learning.
 - Introduce UCSC classes, what are some of the common ones we'll see CSE is Computer Science & Engineering, CMPM is Computational Media, etc...
 - Add a remark that some people might find the difficulties higher or lower depending on the subject and mastery coming into university
 
-Format example (description just take from courses.soe.ucsc.edu/courses/cse30 lol):
-
-**CSE 30 - Programming Abstractions: Python**
-
-Introduction to software development in Python focusing on structuring software in terms of objects endowed with primitive operations. Introduces concepts and techniques via a sequence of concrete case studies. Coursework consists of programming assignments and a final examination.
-
-Quality: ![](./Media/3_5star.png)
-Difficulty: ![](./Media/2_5star.png)
-
-Remarks:
-
-- Add extra notes here if needed
-- Extra notes (2)
+List of Classes:
+1. [CSE 20 - Beginning Programming in Python](https://github.com/williamsantosa/ucsc-cs/blob/main/Classes/CSE20.md)
+2. [CSE 30 - Programming Abstractions: Python](https://github.com/williamsantosa/ucsc-cs/blob/main/Classes/CSE30.md)
 
 ## Professors
 
@@ -356,3 +350,4 @@ Thank you to ... `<insert people here>`
 
 1. https://www.ratemyprofessors.com/
 2. https://courses.soe.ucsc.edu/
+3. https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth
