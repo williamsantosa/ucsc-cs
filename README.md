@@ -121,28 +121,120 @@ Some useful ones you should definitely consider learning.
 - Markdown
 - HTML
 
+### Python
+
+- High-level language
+- Lots of libraries
+- Will be used extensively in classes
+
+### C
+
+- Low-level language
+- Lots of support, blazingly fast
+- Will be used extensively in classes
+
+### C++
+
+- Object-oriented programming language with C features
+- Like C but with encapsulation, data hiding, abstraction, inheritance, etc
+- More libraries and functions to use
+- A bit slower than C but still much faster than Python
+
+### MIPS / RISC-V
+
+- Assembly language
+- What is it used for?
+- How does assembly language work in the overall scheme of things? (C code compiled into binaries how) 
+
 ## Graduation Requirements
+
+- Talk about graduation requirements
+- Link the graduation requirement website
 
 ### General Education
 
+- Link GE website
+- Talk about the 10 things you need, and overview of what they are
+- Maybe take 1 per quarter
+
 ### Major Requirements (2020 Graduates)
 
-The major requirements
+The major requirements differ for each major, but the lower divisions are fairly similar
 
 #### B.S in Computer Science
 
+- Lower divs very similar
+- Upper division more rigid than B.A
+- Lots of the classes are required, like CSE 102/103/130
+- Expand upon
+
 #### B.A in Computer Science
+
+- Lower divs very similar
+- More elective choices and more electves in general
+- Less required classes (like CSE 130)
+- Expand upon
 
 #### B.S in Computer Science: Computer Game Design
 
+- Arrian talk about this
+
 ## Key Terms
+
+- Abstractions
+- Programming
+- Scripting
+- Diagram
+- Etc just add stuff
 
 ## Classes
 
+- Add for all classes we'll take
+- Introduce UCSC classes, what are some of the common ones we'll see CSE is Computer Science & Engineering, CMPM is Computational Media, etc...
+- Add a remark that some people might find the difficulties higher or lower depending on the subject and mastery coming into university
+
+Format example (description just take from courses.soe.ucsc.edu/courses/cse30 lol):
+
+**CSE 30 - Programming Abstractions: Python**
+
+Introduction to software development in Python focusing on structuring software in terms of objects endowed with primitive operations. Introduces concepts and techniques via a sequence of concrete case studies. Coursework consists of programming assignments and a final examination.
+
+Quality: ![](./Media/3_5star.png)
+Difficulty: ![](./Media/2_5star.png)
+
+Remarks:
+
+- Add extra notes here if needed
+- Extra notes (2)
+
 ## Professors
 
-## Tips and Tricks
-Take a shower.
+- Add for all Professors we've worked with
+- Introduce some Professors
+
+Format example:
+
+**Professor Darrell Long ([RateMyProfessor](https://www.ratemyprofessors.com/professor?tid=304658))**
+
+Longtime Professor at the University of California, Santa Cruz.
+
+Quality: ![](./Media/5star.png)
+Difficulty: ![](./Media/5star.png)
+
+Traits:
+
+- Tough grader
+- Reader
+- Lots of homework
+
+Classes Taught:
+
+- CSE 13S
+
+Remarks:
+
+- Add extra notes here if needed
+- Extra notes (2)
 
 ## What to Study Before Attending University
 
@@ -153,13 +245,31 @@ Take a shower.
 
 ## Planning for Graduate School
 
+- Graduate school requirements
+
 ### Research Experience
+
+- Research is important for graduate school, although not required for a masters degree
+- Talk to Professors (look below)
 
 ### Talking to Professors
 
-## Other Tips and Tricks
+- You NEED 3 recommendation letters for most graduate schools
+- Make sure to talk with some professors and do well in their classes
+- If you get research experience, even better, can ask them for rec letter later
+
+### Maintain a good GPA
+
+- Talk about some GPA statistics for schools
+- GPA is important, but doing stuff outside of classes is important too
+  - Do research, talk to professors
+  - Make some side projects
+- Don't stress about it though, many of our friends have been able to get into graduate school without great GPAs
+
+## Tips and Tricks
 
 - Briefly talk about tips and tricks, what the section includes
+- Some useful stuff
 
 ### Tutoring & Reading & Note Taking
 
@@ -191,6 +301,26 @@ Take a shower.
 
 #### Study Locations
 
+- Introduce study locations
+- Science & Engineering (with friends)
+- McHenry (with friends)
+- Game Lab (if you have access)
+- Talk about how you can reserve a spot, add links
+
 #### Overnight Areas
 
+- Arrian's speciality add stuff here
+
 #### Bathrooms
+
+- Best and worst bathrooms (link to the reddit post lmao)
+
+## Further Learning Material
+
+1. [Overleaf LaTeX Tutorial]([overleaf.com](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F))
+2. [Learn Python](https://www.learnpython.org/)
+
+## References
+
+1. https://www.ratemyprofessors.com/
+2. https://courses.soe.ucsc.edu/
