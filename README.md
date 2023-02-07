@@ -155,35 +155,31 @@ Another major factor of getting into graduate schools is having a good GPA (3.5+
 
 ### Research Experience
 
-Lastly, research experience is also important for graduate school, although not explicitly required. For a doctorate, this is almost certainly required, however, for a masters degree, this is less of a requirement. Research is what graduate degrees prepare students for and getting a headstart in it is never a bad thing. 
+Lastly, research experience is also important for graduate school, although not explicitly required. For a doctorate, research is almost certainly required, however, for a masters degree, it is a great addition but not needed.
 
 ## Tips and Tricks
 
-- Briefly talk about tips and tricks, what the section includes
-- Some useful stuff
+This section will cover some neat tips and tricks we've uncovered during our time at UCSC. Some topics include ways of making money, best locations, and services.
 
 ### Tutoring & Reading & Note Taking
 
-- Discuss what tutoring and reading is, the difference between the two
-- Talk about the pay, provide links
-- Introduce the following types of tutoring and reading
-
-#### Learning Support Services (LSS)
-
-- https://lss.ucsc.edu/
+Some of the campus jobs you may run into are tutoring, reading, and note taking. Tutors are exactly what it sounds like, after completing a class with at least a B, students can apply to teach students. Readers are essentially graders for a class, and note takers take notes for their current class.
 
 #### Baskin School of Engineering (BSOE/RTA System)
 
-- https://organization.soe.ucsc.edu/reader-and-tutor-hiring
+The baskin school of engineering offers students tutor and reader positions for students they've completed. students have to apply [here](https://organization.soe.ucsc.edu/reader-and-tutor-hiring) and specify the class and professor they want to work for. Applications generally open up near the end of the prior quarter.
+
+#### Learning Support Services (LSS)
+
+The learning support services sometimes emails students with good academic standing to tutor for a recently completed class. Alternatively, students may also apply [here](https://lss.ucsc.edu/) to work as well.
 
 #### Note Taking
 
-- Sometimes get emailed for taking notes for your classes
-- $25/unit
+Sometimes, if a student has good academic standing they will get emailed to take notes for a currently enrolled class. They offer $25 per class unit, e.g $125 for a 5 unit class. I would generally shy away from this offer unless you religiously take notes, as you are required to take notes on every single lecture.
 
 ### RateMyProfessor
 
-- https://www.ratemyprofessors.com/
+[RateMyProfessor](https://www.ratemyprofessors.com/) is a useful website which has fairly accurate reviews of professors. Keep in mind, however, that most of the people who post a review either loved or hated the professor and will generally have a strong bias.
 
 ### Best Locations
 
@@ -192,11 +188,12 @@ Lastly, research experience is also important for graduate school, although not 
 
 #### Study Locations
 
-- Introduce study locations
-- Science & Engineering (with friends)
-- McHenry (with friends)
-- Game Lab (if you have access)
-- Talk about how you can reserve a spot, add links
+There are a few study locations:
+- Science & Engineering Library
+- McHenry Library
+- Gaming Lab (if you hae access)
+
+Rooms within the library can be reserved [here](https://guides.library.ucsc.edu/reserve-a-study-room) and you can reserve up to a week in advance.
 
 #### Overnight Areas
 
@@ -208,29 +205,19 @@ Lastly, research experience is also important for graduate school, although not 
 
 ### Services
 
-#### SHS
+There are a lot of useful services at UCSC, here are a few.
 
-- talk about SHS
+#### Counseling & Psychological Services (CAPS)
 
-#### CAPS
-
-- talk about CAPS
+Provides counseling for mental health issues. Their website can be found [here](https://caps.ucsc.edu/). 
 
 #### Slug Support Pantry
 
-- talk about Slug Support Pantry
+Food bank for students who cannot afford food. Their website can be found [here](https://basicneeds.ucsc.edu/campus-resources%20/food.html).
 
-#### Basic Needs Support
+#### Disability Resource Center (DRC)
 
-- talk about Basic Needs Support
-
-#### Applying for DRC
-
-- talk about DRC
-
-### Connecting with other Students
-
-- talk about connecting with other students
+Provides many different services, such as vans, counseling, and DRC status for exams. Depending on the Professor, may take exam in a separate location, online, get extra time, etc. Their website can be found [here](https://drc.ucsc.edu/).
 
 ## Acknowledgements
 
