@@ -1,6 +1,8 @@
 # A Guide to the University of California, Santa Cruz's Computer Science Majors
 
-![https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth](Media/Banner.jpg)
+| ![https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth](Media/Banner.jpg) |
+| :--: |
+| *The Universty of California, Santa Cruz's campus* |
 
 This guide is intended to be read by prospective computer science students and incoming freshmen, however, current students may find portions of the text to be useful as well. Includes information on the Bachelor of Science and Bachelor of Arts in Computer Science majors, as well as the Bachelor of Science in Computer Science: Computer Game Design (CSGD) major. Among other things, contains descriptions of relevant courses, discussion on programming languages you will use, requirements to graduate, as well as ratings on professors and classes you will encounter.
 
@@ -17,36 +19,35 @@ Media:
 ## Table of Contents
 
 1. [Introduction](#Introduction)
+   1. [Quick Note for Non-CS admittees](#Quick-Note-for-Non-CS-admittees)
+   2. [What is Computer Science?](#What-is-Computer-Science?)
+   3. [Bachelor of Art or Science?](#Bachelor-of-Art-or-Science?)
+   4. [Computer Science: Computer Game Design](#Computer-Science:-Computer-Game-Design)
 2. [Subjects](#Subjects)
 3. [Languages](#Languages)
 4. we'll add this later after it's finalized
 
 ## Introduction
 
-- Introduce the computer science degrees
-- BS in CS, BA in CS, BS in CSGD
-- State that we will talk about BA vs BS in CS
+The University of California, Santa Cruz, is well known for its beautiful campus and excellent education. The B.S in Computer Science: Computer Game Design degree at UCSC is reported to be in the [top five computer science game design degrees](https://lookout.co/santacruz/ucsc-cabrillo/story/2022-09-15/ucsc-groundbreaking-computer-game-program-top-5-nationally-charts-astonishing-path#:~:text=U.S.%20News%20and%20World%20Report,to%20its%202022%2D23%20analysis.) in the United States. Additionally, the B.S and B.A in Computer Science degree is reported to be [one of the top ten in California, and among the top fifty across the country](https://www.usnews.com/best-graduate-schools/top-science-schools/university-of-california-santa-cruz-110714). We will discuss the differences between the Computer Science Bachelor of Arts and Bachelor of Science degrees, and talk about the Computer Science: Computer Game Design degree.
 
 ### Quick Note for Non-CS admittees
 
-- Talk about impacted (CS is impacted)
-- Discuss how hard it is to switch into CS, may only be able to take a few CS classes or none at all
+Computer science at UCSC is impacted, meaning that it is a very popular, difficult major to get admitted into. Unfortunately, this also means that switching into computer science is very difficult. If you want to major in CS and were not admitted, it is a good idea to take another offer that allows you to do CS. Alternatively, you can also do two years of community college and transfer as a junior. That way, you will can get a degree in CS while also saving money.
 
 ### What is Computer Science?
 
-- Define CS (study of computers)
-- Theory, algorithms, programming languages, architecture.
-- Includes programming, which will happen a lot in lower division
-- Proofs (CSE 16), computer architecture (CSE 12/120), etc
+"Science" refers to the study of something. Consequently, "computer science" refers to the study of computers. A typical computer science curriculum is composed of studying theory, algorithms, programming languages, and architecture. Computer science students will often find themselves not programming for long periods of time, sometimes even for an entire quarter. Some things that students do other than programming include formulating proofs, plotting diagrams, and writing documentation or writeups on their programs.
 
 ### Bachelor of Art or Science?
 
-- Bachelor of Art vs Bachelor of Science
-- List out some class requirements
-- BA is the same as BS until upper division
-- Talk about how one is geared for graduate school and the other provides more flexibility in upper division classes
-- Can always switch from BS to BA
-- BA to BS requires 3.0 GPA and an appeal
+Both the Bachelor of Art (B.A) and Bachelor of Science (B.S) in Computer Science are great degrees. They are crafted such that students are exposed to "a rigorous curriculum" ([Registrar](https://registrar.ucsc.edu/catalog/archive/15-16/programs-courses/program-statements/cmps.html)) and their lower division requirements are practically the same. All students have to complete the same Math courses (save for Math 23A), the same Computer Science & Engineering (CSE) courses, and complete CSE 101 in order to graduate. However, the B.A degree offers more flexibility in the upper division electives allowed, while the B.S is designed to prepare the student for research and post-undergraduate programs.
+
+It is easy to switch from a B.S to a B.A, however, switching from a B.A to B.S requires: 
+1. An appeal to the university
+2. Maintaing good academic standing (3.0 GPA)
+
+Both of the requirements are not terribly difficult, but they do require some planning ahead of time.
 
 ### Computer Science: Computer Game Design
 
@@ -351,3 +352,4 @@ Thank you to ... `<insert people here>`
 1. https://www.ratemyprofessors.com/
 2. https://courses.soe.ucsc.edu/
 3. https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth
+4. https://registrar.ucsc.edu/catalog/archive/15-16/programs-courses/program-statements/cmps.html
