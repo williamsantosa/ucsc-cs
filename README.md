@@ -55,101 +55,45 @@ Both of the requirements are not terribly difficult, but they do require some pl
 
 ## Subjects
 
-There are a few subjects that everyone will have to encounter as a computer science major.
+There are a few subjects that everyone will have to encounter as a computer science major. Namely,
 
-- Programming
-- Computer Architecture
-- Algorithms and Data Structures
-- Math (CS)
-- Operating Systems
+- Programming - Planning and generating instructions to give to a machine.
+- Computer Architecture - The functionality, management, and implementation of computer systems.
+- Data Structures - Structure used to hold data, like LinkedLists, Heaps, and Trees.
+- Algorithms - Methods of solving problems efficiently using data structure.
+- Math (CS) - Math topics like Calculus and Linear Algebra.
+- Operating Systems - System software that manages computer hardware, software resources, and provides services for computer programs.
 
-And here are some other topics that you may encounter as an upper division elective.
+The following are more topics that students may encounter at UCSC.
 
-- Databases
-- Languages and Compilers
-- Distributed Systems
-- 3D Modeling
-- Computer Networking
-
-### Programming
-
-- What is programming and how is it different than coding
-- Talk about programs we would make in our classes (like CSE 30, linkedlist and biginteger and CSE 13s stuff)
-- Languages, which is referenced in the other section
-- Upper division programming vs lower div
-
-### Computer Architecture
-
-- What is computer architecture
-- What is a low-level vs high-level language
-- What is assembly
-
-### Algorithms and Data Structures
-
-- What are algorithms and data structures and what are they used for
-- What are some algorithms and data structures (LinkedList, Trees, Heap, Graphs)
-- Examples (Queue being used in a line, or restaurant)
-
-### Math (CS)
-
-- You will have to take math classes ):
-- Calculus, Linear Algebra, Statistics
-
-### Operating Systems
-
-- Ties into assembly languages
-- What your computer is run on
-- Low-level languages
-- Discuss it
+- Databases - A structured way to hold data (like a table).
+- Languages and Compilers - The way code is interpreted through your system.
+- Distributed Systems - A computing environment where components are spread across many computers.
+- 3D Modeling - Generating models using modeling software.
+- Computer Networking - Interconnected computing devices that can exchange data and share resources with one another.
 
 ## Languages
 
 You will definitely use these languages.
 
-- Python
-- C
-- C++
-- MIPS / RISC-V
+- Python - High-level language. Slow to compute but fast to write.
+- C - Low-level language. Blazingly fast but slow to write. Prone to many errors.
+- C++ - Intermediate-level language. Easier to write in relative to C but trades some performance as a result. 
+- MIPS / RISC-V - Assembly language. Will be used in Computer Architecture classes (CSE 12/120).
 
-Depending on your electives, you may use these languages.
+Depending on your interests, you may use these languages.
 
-- JavaScript
-- C#
-- R
-- MatLab
-- Haskell (CSE 114A)
-- LaTeX
+- JavaScript - High-level language which create mobile and desktop apps, along with full-stack applications.
+- C# - High-level language creating mobile and desktop apps, cloud-based services, and more.
+- R - Mathematical programming language.
+- MatLab - Mathematical programming language.
+- Haskell - Functional programming language. Free of side effects, used in Functional Programming classes (CSE 114A).
 
 Some useful ones you should definitely consider learning.
 
-- LaTeX
-- Markdown
-- HTML
-
-### Python
-
-- High-level language
-- Lots of libraries
-- Will be used extensively in classes
-
-### C
-
-- Low-level language
-- Lots of support, blazingly fast
-- Will be used extensively in classes
-
-### C++
-
-- Object-oriented programming language with C features
-- Like C but with encapsulation, data hiding, abstraction, inheritance, etc
-- More libraries and functions to use
-- A bit slower than C but still much faster than Python
-
-### MIPS / RISC-V
-
-- Assembly language
-- What is it used for?
-- How does assembly language work in the overall scheme of things? (C code compiled into binaries how) 
+- LaTeX - Powerful and complex markup language.
+- Markdown - Fast, simple, and lightweight markup language.
+- HTML - The markup standard for web pages.
 
 ## Graduation Requirements
 
