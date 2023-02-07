@@ -1,8 +1,8 @@
 # A Guide to the University of California, Santa Cruz's Computer Science Majors
 
 | ![https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth](Media/Banner.jpg) |
-| :--: |
-| *The Universty of California, Santa Cruz's campus* |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                   *The Universty of California, Santa Cruz's campus*                                                    |
 
 This guide is intended to be read by prospective computer science students and incoming freshmen, however, current students may find portions of the text to be useful as well. Includes information on the Bachelor of Science and Bachelor of Arts in Computer Science majors, as well as the Bachelor of Science in Computer Science: Computer Game Design (CSGD) major. Among other things, contains descriptions of relevant courses, discussion on programming languages you will use, requirements to graduate, as well as ratings on professors and classes you will encounter.
 
@@ -97,52 +97,27 @@ Some useful ones you should definitely consider learning.
 
 ## Graduation Requirements
 
-- Talk about graduation requirements
-- Link the graduation requirement website
+Everyone wants to graduate... which means it is imperative that you plan out your classes ahead of time! Below are the requirements to graduate.
 
 ### General Education
 
-- Link GE website
-- Talk about the 10 things you need, and overview of what they are
-- Maybe take 1 per quarter
+The general education requirements can be found [here](https://registrar.ucsc.edu/enrollment/general-education-requirements.html) at the Registrar. It is recommended that you do not rush through the GEs as they can be finished quite quickly if you take 1 or 2 per quarter. Instead, space them out throughout your undergraduate career, as they are useful in padding classes during difficult quarters.
 
-### Major Requirements (2020)
+### Major Requirements (2022-2023)
 
-- Might be slightly outdated, but this is what we did to graduate
-- The major requirements differ for each major, but the lower divisions are fairly similar
-- Add something something, link updated page and our 2020 page for graduating
-
-#### B.S in Computer Science
-
-- Lower divs very similar
-- Upper division more rigid than B.A
-- Lots of the classes are required, like CSE 102/103/130
-- Expand upon
-
-#### B.A in Computer Science
-
-- Lower divs very similar
-- More elective choices and more electves in general
-- Less required classes (like CSE 130)
-- Expand upon
-
-#### B.S in Computer Science: Computer Game Design
-
-- Arrian talk about this
-
-## Key Terms
-
-- Abstractions
-- Programming
-- Scripting
-- Diagram
-- Etc just add stuff
+The curriculum charts can be found [here](https://undergrad.soe.ucsc.edu/curriculum-charts) at the university's webpage. More specifically, [B.S in Computer Science](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CS_BS_22-23.pdf), [B.A in Computer Science](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CS_BA_22-23.pdf), and [B.S in Computer Science: Computer Game Design](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CSGD_BS_22-23.pdf).
 
 ## Classes
 
-- Add for all classes we'll take
-- Introduce UCSC classes, what are some of the common ones we'll see CSE is Computer Science & Engineering, CMPM is Computational Media, etc...
-- Add a remark that some people might find the difficulties higher or lower depending on the subject and mastery coming into university
+The classes at UCSC are structured such that the subject comes first, follow by their course number, followed by the course title. In other words, `subject course_number - course_title`. Lower division courses range from 1 - 99, upper division courses from 100 - 199, and seminars/graduate courses are 200+. Some common subjects can be seen in the chart below.
+
+| Subject                        | Acronym |
+| :----------------------------- | :------ |
+| Computer Science & Engineering | CSE     |
+| Computational Media            | CMPM    |
+| Mathematics                    | MATH    |
+| Statistics                     | STAT    |
+| Writing                        | WRIT    |
 
 List of Classes:
 1. [CSE 20 - Beginning Programming in Python](https://github.com/williamsantosa/ucsc-cs/blob/main/Classes/CSE20.md)
@@ -150,32 +125,10 @@ List of Classes:
 
 ## Professors
 
-- Add for all Professors we've worked with
-- Introduce some Professors
+There are plenty of Professors at UCSC, all of which are notable in their own field of study. Below are some of the Professors you may meet.
 
-Format example:
-
-**Professor Darrell Long ([RateMyProfessor](https://www.ratemyprofessors.com/professor?tid=304658))**
-
-Longtime Professor at the University of California, Santa Cruz.
-
-Quality: ![](./Media/5star.png)
-Difficulty: ![](./Media/5star.png)
-
-Traits:
-
-- Tough grader
-- Reader
-- Lots of homework
-
-Classes Taught:
-
-- CSE 13S
-
-Remarks:
-
-- Add extra notes here if needed
-- Extra notes (2)
+List of Professors:
+1. [Darell Long](https://github.com/williamsantosa/ucsc-cs/blob/main/Professors/DarellLong.md)
 
 ## What to Study Before Attending University
 
