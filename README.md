@@ -18,14 +18,43 @@ Media:
 
 ## Table of Contents
 
-1. [Introduction](#Introduction)
-   1. [Quick Note for Non-CS admittees](#Quick-Note-for-Non-CS-admittees)
-   2. [What is Computer Science?](#What-is-Computer-Science)
-   3. [Bachelor of Art or Science?](#Bachelor-of-Art-or-Science)
-   4. [Computer Science: Computer Game Design](#Computer-Science-Computer-Game-Design)
-2. [Subjects](#Subjects)
-3. [Languages](#Languages)
-4. we'll add this later after it's finalized
+- [A Guide to the University of California, Santa Cruz's Computer Science Majors](#a-guide-to-the-university-of-california-santa-cruzs-computer-science-majors)
+  - [Contributors](#contributors)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Quick Note for Non-CS admittees](#quick-note-for-non-cs-admittees)
+    - [What is Computer Science?](#what-is-computer-science)
+    - [Bachelor of Art or Science?](#bachelor-of-art-or-science)
+    - [Computer Science: Computer Game Design](#computer-science-computer-game-design)
+  - [Subjects](#subjects)
+  - [Languages](#languages)
+  - [Graduation Requirements](#graduation-requirements)
+    - [General Education](#general-education)
+    - [Major Requirements (2022-2023)](#major-requirements-2022-2023)
+  - [Classes](#classes)
+  - [Professors](#professors)
+  - [Preparing for University](#preparing-for-university)
+  - [Planning for Graduate School](#planning-for-graduate-school)
+    - [Talking to Professors](#talking-to-professors)
+    - [Maintain a good GPA](#maintain-a-good-gpa)
+    - [Research Experience](#research-experience)
+  - [Tips and Tricks](#tips-and-tricks)
+    - [Tutoring, Reading, \& Note Taking](#tutoring-reading--note-taking)
+      - [Baskin School of Engineering (BSOE/RTA System)](#baskin-school-of-engineering-bsoerta-system)
+      - [Learning Support Services (LSS)](#learning-support-services-lss)
+      - [Note Taking](#note-taking)
+    - [RateMyProfessor](#ratemyprofessor)
+    - [Best Locations](#best-locations)
+      - [Study Locations](#study-locations)
+      - [Overnight Areas](#overnight-areas)
+      - [Bathrooms](#bathrooms)
+    - [Services](#services)
+      - [Counseling \& Psychological Services (CAPS)](#counseling--psychological-services-caps)
+      - [Slug Support Pantry](#slug-support-pantry)
+      - [Disability Resource Center (DRC)](#disability-resource-center-drc)
+  - [Acknowledgements](#acknowledgements)
+  - [Further Learning Material](#further-learning-material)
+  - [References](#references)
 
 ## Introduction
 
@@ -161,7 +190,7 @@ Lastly, research experience is also important for graduate school, although not 
 
 This section will cover some neat tips and tricks we've uncovered during our time at UCSC. Some topics include ways of making money, best locations, and services.
 
-### Tutoring & Reading & Note Taking
+### Tutoring, Reading, & Note Taking
 
 Some of the campus jobs you may run into are tutoring, reading, and note taking. Tutors are exactly what it sounds like, after completing a class with at least a B, students can apply to teach students. Readers are essentially graders for a class, and note takers take notes for their current class.
 
