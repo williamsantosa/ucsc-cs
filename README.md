@@ -130,35 +130,32 @@ There are plenty of Professors at UCSC, all of which are notable in their own fi
 List of Professors:
 1. [Darell Long](https://github.com/williamsantosa/ucsc-cs/blob/main/Professors/DarellLong.md)
 
-## What to Study Before Attending University
+## Preparing for University
 
-1. Learn a language (Rec: Python & C).
-2. Learn a second language. Compare and contrast the two, understand what it fully going on underneath everything (like JavaScript's `in` vs. `of` when iterating over an object or how values are being stored in certain programming languages).
-3. Read over some proofs.
-4. Learn common data structures and algorithms (DSAs).
+Having come into University with minimal Computer Science experience, there are a few I would recommend people to do.
+
+1. Take AP Computer Science (if possible) in High School.
+2. Learn a language (Java, Python, or C).
+3. Learn a second language. Compare and contrast the two, understand what it fully going on underneath everything (like JavaScript's `in` vs. `of` when iterating over an object or how values are being stored in certain programming languages).
+4. Watch a YouTube video about what proofs and assembly language are.
+   1. Look at examples of proofs and assembly language.
+5. Learn common data structures and algorithms (LinkedList, Tree, Array).
 
 ## Planning for Graduate School
 
-- Graduate school requirements
-
-### Research Experience
-
-- Research is important for graduate school, although not required for a masters degree
-- Talk to Professors (look below)
+There are a few things you should prepare if you are planning on going to graduate school. Namely, talking to professors, having a good GPA, and getting experience in research.
 
 ### Talking to Professors
 
-- You NEED 3 recommendation letters for most graduate schools
-- Make sure to talk with some professors and do well in their classes
-- If you get research experience, even better, can ask them for rec letter later
+Most graduate schools require 3 recommendation letters from people you have worked with. Consequently, you should try to talk or even work with some of the professors at UCSC. A good way to work with them is to be active and get good grades in their class, then ask if they have any projects they need help on. Alternatively, you can also tutor for them and that'll also increase your chances of getting a recommendation letter from them. If there are no opportunities to do so, it also doesn't hurt to ask them for a recommendation letter if you did good in their class.
 
 ### Maintain a good GPA
 
-- Talk about some GPA statistics for schools
-- GPA is important, but doing stuff outside of classes is important too
-  - Do research, talk to professors
-  - Make some side projects
-- Don't stress about it though, many of our friends have been able to get into graduate school without great GPAs
+Another major factor of getting into graduate schools is having a good GPA (3.5+). Having this along with other extracurriculars is a surefire way to increase your chances of getting into graduate school. After all, undergraduate academics is a good way to measure your likelihood of doing well in graduate school.
+
+### Research Experience
+
+Lastly, research experience is also important for graduate school, although not explicitly required. For a doctorate, this is almost certainly required, however, for a masters degree, this is less of a requirement. Research is what graduate degrees prepare students for and getting a headstart in it is never a bad thing. 
 
 ## Tips and Tricks
 
