@@ -222,6 +222,7 @@ There are a few study locations:
 - Science & Engineering Library
 - McHenry Library
 - Gaming Lab (if you have access)
+- DARC 308 (when class is not in session)
 
 Rooms within the library can be reserved [here](https://guides.library.ucsc.edu/reserve-a-study-room) and you can reserve up to a week in advance.
 
