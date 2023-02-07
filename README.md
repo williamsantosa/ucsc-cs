@@ -157,9 +157,11 @@ Some useful ones you should definitely consider learning.
 - Talk about the 10 things you need, and overview of what they are
 - Maybe take 1 per quarter
 
-### Major Requirements (2020 Graduates)
+### Major Requirements (2020)
 
-The major requirements differ for each major, but the lower divisions are fairly similar
+- Might be slightly outdated, but this is what we did to graduate
+- The major requirements differ for each major, but the lower divisions are fairly similar
+- Add something something, link updated page and our 2020 page for graduating
 
 #### B.S in Computer Science
 
@@ -314,6 +316,10 @@ Remarks:
 #### Bathrooms
 
 - Best and worst bathrooms (link to the reddit post lmao)
+
+## Acknowledgements
+
+Thank you to ... `<insert people here>`
 
 ## Further Learning Material
 
