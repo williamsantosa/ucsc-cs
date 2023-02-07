@@ -4,7 +4,7 @@ This guide is intended to be read by prospective computer science students and i
 
 Authors: 
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
-- Gregory Santosa - [Email](mailto:gs2396@hotmail.com) | [GitHub](https://github.com/gregorysantosa) | [LinkedIn] (https://www.linkedin.com/in/gregory-santosa/)
+- Gregory Santosa - [Email](mailto:gs2396@hotmail.com) | [GitHub](https://github.com/gregorysantosa) | [LinkedIn](https://www.linkedin.com/in/gregory-santosa/)
 - Arrian Chi - [GitHub](https://github.com/dinoplane)
 
 Media:
@@ -20,16 +20,33 @@ Media:
 ## Introduction
 
 - Introduce the computer science degrees
-- 
+- BS in CS, BA in CS, BS in CSGD
+- State that we will talk about BA vs BS in CS
 
 ### Quick Note for Non-CS admittees
 
 - Talk about impacted (CS is impacted)
-- Discuss how hard it is to CS, may only be able to take a few CS classes
+- Discuss how hard it is to switch into CS, may only be able to take a few CS classes or none at all
 
 ### What is Computer Science?
 
-Theory, algorithms, programming languages, architecture.
+- Define CS (study of computers)
+- Theory, algorithms, programming languages, architecture.
+- Includes programming, which will happen a lot in lower division
+- Proofs (CSE 16), computer architecture (CSE 12/120), etc
+
+### Bachelor of Art or Science?
+
+- Bachelor of Art vs Bachelor of Science
+- List out some class requirements
+- BA is the same as BS until upper division
+- Talk about how one is geared for graduate school and the other provides more flexibility in upper division classes
+- Can always switch from BS to BA
+- BA to BS requires 3.0 GPA and an appeal
+
+### Computer Science: Computer Game Design
+
+- Arrian talk about this -- make similar to above
 
 ## Subjects
 
@@ -40,7 +57,6 @@ There are a few subjects that everyone will have to encounter as a computer scie
 - Algorithms and Data Structures
 - Math (CS)
 - Operating Systems
-- Computer Networking
 
 And here are some other topics that you may encounter as an upper division elective.
 
@@ -48,6 +64,38 @@ And here are some other topics that you may encounter as an upper division elect
 - Languages and Compilers
 - Distributed Systems
 - 3D Modeling
+- Computer Networking
+
+### Programming
+
+- What is programming and how is it different than coding
+- Talk about programs we would make in our classes (like CSE 30, linkedlist and biginteger and CSE 13s stuff)
+- Languages, which is referenced in the other section
+- Upper division programming vs lower div
+
+### Computer Architecture
+
+- What is computer architecture
+- What is a low-level vs high-level language
+- What is assembly
+
+### Algorithms and Data Structures
+
+- What are algorithms and data structures and what are they used for
+- What are some algorithms and data structures (LinkedList, Trees, Heap, Graphs)
+- Examples (Queue being used in a line, or restaurant)
+
+### Math (CS)
+
+- You will have to take math classes ):
+- Calculus, Linear Algebra, Statistics
+
+### Operating Systems
+
+- Ties into assembly languages
+- What your computer is run on
+- Low-level languages
+- Discuss it
 
 ## Languages
 
