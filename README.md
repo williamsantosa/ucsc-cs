@@ -198,7 +198,7 @@ Some of the campus jobs you may run into are tutoring, reading, and note-taking.
 
 #### Baskin School of Engineering (BSOE/RTA System)
 
-The Baskin School of Engineering offers tutor and reader positions for students who complete the course. Students have to apply [here](https://organization.soe.ucsc.edu/reader-and-tutor-hiring) and specify the class and professor they want to work for. Applications generally open up near the end of the prior quarter.
+The Baskin School of Engineering offers tutor and reader positions for students. Students have to apply [here](https://organization.soe.ucsc.edu/reader-and-tutor-hiring) and specify the class and professor they want to work for. Applications generally open up near the end of the prior quarter.
 
 #### Learning Support Services (LSS)
 
