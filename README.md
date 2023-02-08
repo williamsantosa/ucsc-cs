@@ -2,9 +2,9 @@
 
 | ![https://lookout.co/santacruz/education/higher-ed/story/2021-03-07/ucsc-local-governments-approach-collision-over-enrollment-growth](Media/Banner.jpg) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                   *The Universty of California, Santa Cruz's campus*                                                    |
+|                                                   *The University of California, Santa Cruz's campus*                                                    |
 
-This guide is intended to be read by prospective computer science students and incoming freshmen, however, current students may find portions of the text to be useful as well. Includes information on the Bachelor of Science and Bachelor of Arts in Computer Science majors, as well as the Bachelor of Science in Computer Science: Computer Game Design (CSGD) major. Among other things, contains descriptions of relevant courses, discussion on programming languages you will use, requirements to graduate, as well as ratings on professors and classes you will encounter.
+This guide is intended to be read by prospective computer science students and incoming freshmen; however, current students may find portions of the text to be useful as well. Includes information on the Bachelor of Science and Bachelor of Arts in Computer Science majors, as well as the Bachelor of Science in Computer Science: Computer Game Design (CSGD) major. Among other things, contains descriptions of relevant courses, discussion on programming languages you will use, requirements to graduate, as well as ratings on professors, and classes you will encounter.
 
 ## Contributors
 
@@ -131,7 +131,7 @@ Everyone wants to graduate... which means it is imperative that you plan out you
 
 ### General Education
 
-The general education requirements can be found [here](https://registrar.ucsc.edu/enrollment/general-education-requirements.html) at the Registrar. It is recommended that you do not rush through the GEs as they can be finished quite quickly if you take 1 or 2 per quarter. Instead, space them out throughout your undergraduate career, as they are useful in padding classes during difficult quarters.
+General education requirements can be found [here](https://registrar.ucsc.edu/enrollment/general-education-requirements.html) at the Registrar. It is recommended that you do not rush through the GEs as they can be finished quite quickly if you take 1 or 2 per quarter. Instead, space them out throughout your undergraduate career, as they are useful in padding classes during difficult quarters.
 
 ### Major Requirements (2022-2023)
 
@@ -139,7 +139,7 @@ The curriculum charts can be found [here](https://undergrad.soe.ucsc.edu/curricu
 
 ## Classes
 
-The classes at UCSC are structured such that the subject comes first, follow by their course number, followed by the course title. In other words, `subject course_number - course_title`. Lower division courses range from 1 - 99, upper division courses from 100 - 199, and seminars/graduate courses are 200+. Some common subjects can be seen in the chart below.
+The classes at UCSC are structured such that the subject comes first, followed by their course number, followed by the course title. In other words, `subject course_number - course_title`. Lower division courses range from 1 - 99, upper division courses from 100 - 199, and seminars/graduate courses are 200+. Some common subjects can be seen in the chart below.
 
 | Subject                        | Acronym |
 | :----------------------------- | :------ |
@@ -182,7 +182,7 @@ Most graduate schools require 3 recommendation letters from people you have work
 
 ### Maintain a good GPA
 
-Another major factor of getting into graduate schools is having a good GPA (3.5+). Having this along with other extracurriculars is a surefire way to increase your chances of getting into graduate school. After all, undergraduate academics is a good way to measure your likelihood of doing well in graduate school.
+Another major factor in getting into graduate schools is having a good GPA (3.5+). Having this, along with other extracurriculars, is a surefire way to increase your chances of getting into graduate school. After all, undergraduate academics are a good way to measure your likelihood of doing well in graduate school.
 
 ### Research Experience
 
@@ -194,19 +194,19 @@ This section will cover some neat tips and tricks we've uncovered during our tim
 
 ### Tutoring, Reading, & Note Taking
 
-Some of the campus jobs you may run into are tutoring, reading, and note taking. Tutors are exactly what it sounds like, after completing a class with at least a B, students can apply to teach students. Readers are essentially graders for a class, and note takers take notes for their current class.
+Some of the campus jobs you may run into are tutoring, reading, and note-taking. Tutors are exactly what it sounds like, after completing a class with at least a B, students can apply to teach students. Readers are essentially graders for a class, and note takers take notes for their current class.
 
 #### Baskin School of Engineering (BSOE/RTA System)
 
-The baskin school of engineering offers students tutor and reader positions for students they've completed. students have to apply [here](https://organization.soe.ucsc.edu/reader-and-tutor-hiring) and specify the class and professor they want to work for. Applications generally open up near the end of the prior quarter.
+The Baskin School of Engineering offers tutor and reader positions for students. Students have to apply [here](https://organization.soe.ucsc.edu/reader-and-tutor-hiring) and specify the class and professor they want to work for. Applications generally open up near the end of the prior quarter.
 
 #### Learning Support Services (LSS)
 
-The learning support services sometimes emails students with good academic standing to tutor for a recently completed class. Alternatively, students may also apply [here](https://lss.ucsc.edu/) to work as well.
+Learning Support Services sometimes email students with good academic standing to tutor for a recently completed class. Alternatively, students may also apply [here](https://lss.ucsc.edu/) to work as well.
 
 #### Note Taking
 
-Sometimes, if a student has good academic standing they will get emailed to take notes for a currently enrolled class. They offer $25 per class unit, e.g $125 for a 5 unit class. I would generally shy away from this offer unless you religiously take notes, as you are required to take notes on every single lecture.
+Sometimes, if a student has good academic standing, they will get emailed to take notes for a currently enrolled class. They offer $25 per class unit, e.g. $125 for a 5-unit class. I would generally shy away from this offer unless you religiously take notes, as you are required to take notes on every single lecture.
 
 ### RateMyProfessor
 
@@ -250,7 +250,7 @@ Food bank for students who cannot afford food. Their website can be found [here]
 
 #### Disability Resource Center (DRC)
 
-Provides many different services, such as vans, counseling, and DRC status for exams. Depending on the Professor, may take exam in a separate location, online, get extra time, etc. Their website can be found [here](https://drc.ucsc.edu/).
+Provides many different services, such as vans, counseling, and DRC status for exams. Depending on the Professor, may take exams in a separate location, online, get extra time, etc. Their website can be found [here](https://drc.ucsc.edu/).
 
 ## Acknowledgements
 
