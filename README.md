@@ -82,6 +82,10 @@ Both of the requirements are not terribly difficult, but they do require some pl
 
 - Arrian talk about this -- make similar to above
 - Discuss what is the CSGD major and what exactly do you do
+The Computer Science: Game Design degree is designed for students who hope to pursue a career in game design and related fields. CSGD majors take mostly the same 
+
+**DO NOT APPLY OR SWITCH TO CSGD WITHOUT FIRST CONSULTING YOUR ADVISORS**
+
 
 ## Subjects
 
