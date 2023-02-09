@@ -308,7 +308,7 @@ Thank you to ... `<insert people here>`
 
 ## Further Learning Material
 
-1. [Overleaf LaTeX Tutorial]([overleaf.com](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F))
+1. [Overleaf LaTeX Tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F)
 2. [Learn Python](https://www.learnpython.org/)
 
 ## References
