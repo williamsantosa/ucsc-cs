@@ -9,12 +9,12 @@ This guide is intended to be read by prospective computer science students and i
 ## Contributors
 
 Authors: 
-- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
-- Gregory Santosa - [Email](mailto:gs2396@hotmail.com) | [GitHub](https://github.com/gregorysantosa) | [LinkedIn](https://www.linkedin.com/in/gregory-santosa/)
-- Arrian Chi - [GitHub](https://github.com/dinoplane)
+- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa) 
+- Gregory Santosa - [Email](mailto:gs2396@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/gregory-santosa/) | [GitHub](https://github.com/gregorysantosa)
+- Arrian Chi - [Email](mailto:isacsac2017@gmail.com) | [Website](https://aliendino.netlify.app/) | [GitHub](https://github.com/dinoplane)
 
 Media:
-- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [GitHub](https://github.com/williamsantosa) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/)
+- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa) 
 
 ## Table of Contents
 
@@ -62,7 +62,9 @@ The University of California, Santa Cruz, is well known for its beautiful campus
 
 ### Quick Note for Non-CS admittees
 
-Computer science at UCSC is impacted, meaning that it is a very popular, difficult major to get admitted into. Unfortunately, this also means that switching into computer science is very difficult. If you want to major in CS and were not admitted, it is a good idea to take another offer that allows you to do CS. Alternatively, you can also do two years of community college and transfer as a junior. That way, you will can get a degree in CS while also saving money.
+Computer science at UCSC is impacted, meaning that it is a very popular, difficult major to get admitted into. Unfortunately, this also means that switching into computer science (after you have applied) is very difficult. If you want to major in CS and were not admitted, it is a good idea to take another offer that allows you to do CS. Alternatively, you can also do two years of community college and transfer as a junior. That way, you will can get a degree in CS while also saving money.
+
+Additional Note: Majors offered by the Baskin School of Engineering are also impacted, making it difficult for students admitted to a proposed major outside of BSOE to switch in. 
 
 ### What is Computer Science?
 
@@ -80,8 +82,15 @@ Both of the requirements are not terribly difficult, but they do require some pl
 
 ### Computer Science: Computer Game Design
 
-- Arrian talk about this -- make similar to above
-- Discuss what is the CSGD major and what exactly do you do
+The Computer Science: Game Design degree is a degree offered by the Computational Media Department designed for students pursuing a career in game design and related fields. CSGD majors have similar lower division classes as CS majors (MATH23A/AM30 and ECE30 are not required) in addition to art/game classes (ARTG80G, FILM80V, and CMPM80K). That being said, the degree's rigorous curriculum requires dedication to complete. Students in the degree will be well acquainted with the game design loop, rapid prototyping, playtesting, game systems, and Scrum.
+
+The CSGD degree is most known for its senior capstone series (CMPM 170- 172), a year-long studio course where students work in a group of 6-12 people to create a series of polished games/prototypes for your portfolio. Lectures are formatted to guide you as you progress through your production. After every sprint period, students present their game and design processes to the TAs and Professors (and if you are lucky, you get to present to the entire class) and write a postmortem about your game.
+
+The course is also taught in conjunction with ARTG 170-172 (the AGPM degree capstone), making it important to connect with AGPM majors as well. 
+
+Side Note \#1: The state of the 170 series seems to be volatile right now due to some significant changes in the course format. If anything has changed, please contact [me](https://github.com/dinoplane). 
+
+Side Note \#2: CSGD is offered by the Computational Media Department. Therefore, someone in CS:GD cannot switch into CS, but someone in CS could switch into CS:GD (there's no going back however). It is common to double major in CS and CSGD, so if interested, consult your major advisor. 
 
 ## Subjects
 
@@ -124,6 +133,14 @@ Some useful ones you should definitely consider learning.
 - LaTeX - Powerful and complex markup language.
 - Markdown - Fast, simple, and lightweight markup language.
 - HTML - The markup standard for web pages.
+
+Languages/Game Engines useful for CSGD students:
+
+C#/Unity - Used in capstone project.
+C++/Unreal Engine - Complicated, powerful engine.
+Godot - Learn if you love FOSS.
+Javascript - Learn it. CMPM courses use this A LOT. Also look into P5.js and Twine.  
+GLSL/Shader DSL - Good to know, fun to learn.
 
 ## Graduation Requirements
 
@@ -216,6 +233,7 @@ Sometimes, if a student has good academic standing, they will get emailed to tak
 
 - Write introduction paragraph for locations on campus
 - Overnight, study, bathrooms, etc
+
 - Expand on this
 
 #### Study Locations
@@ -230,11 +248,42 @@ Rooms within the library can be reserved [here](https://guides.library.ucsc.edu/
 
 #### Overnight Areas
 
+- Science and Engineering Library (SnE)
+- McHenry Library
+
+Places that get locked after midnight
+- Jack's Lounge
+- DARC 308
+- Music Center
+
+Places you will need keycard/special access to:
+- Any Lab in Baskin Engineering 1/2
+- (For CSGD/AGPM majors taking the capstone, you will have exclusive access to the Baskin Engineering 1 Game Labs)
+
+Places where it is comfortable to sleep in:
+
+- Baskin Engineering 1 1st floor couches
+- Jack's Lounge (if you a hard wood bench kinda person)
+- DARC 308
+- Music Center
+- Baskin Game labs
+- Literally anywhere with 2 [chairs](https://www.wikihow.com/Sleep-on-a-Chair), a quiet atmosphere, and no people
+
+So say you are someone who wants to get access to every room in Baskin. Work for BELS (Expand on this.)
+
 - Arrian's speciality add stuff here
 
 #### Bathrooms
 
 - Best and worst bathrooms (link to the reddit post lmao)
+
+Top 3 Best Restrooms
+
+1. Baskin Engineering 2 any floor
+
+2. Science and Engineering 2 3rd floor (All gender restrooms)
+
+3. ~~The woods~~ DARC Restrooms
 
 ### Services
 
@@ -259,7 +308,7 @@ Thank you to ... `<insert people here>`
 
 ## Further Learning Material
 
-1. [Overleaf LaTeX Tutorial]([overleaf.com](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F))
+1. [Overleaf LaTeX Tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F)
 2. [Learn Python](https://www.learnpython.org/)
 
 ## References
