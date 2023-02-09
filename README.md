@@ -62,7 +62,9 @@ The University of California, Santa Cruz, is well known for its beautiful campus
 
 ### Quick Note for Non-CS admittees
 
-Computer science at UCSC is impacted, meaning that it is a very popular, difficult major to get admitted into. Unfortunately, this also means that switching into computer science is very difficult. If you want to major in CS and were not admitted, it is a good idea to take another offer that allows you to do CS. Alternatively, you can also do two years of community college and transfer as a junior. That way, you will can get a degree in CS while also saving money.
+Computer science at UCSC is impacted, meaning that it is a very popular, difficult major to get admitted into. Unfortunately, this also means that switching into computer science (after you have applied) is very difficult. If you want to major in CS and were not admitted, it is a good idea to take another offer that allows you to do CS. Alternatively, you can also do two years of community college and transfer as a junior. That way, you will can get a degree in CS while also saving money.
+
+Additional Note: Majors offered by the Baskin School of Engineering are also impacted, so it is very difficult for students who were admitted to a proposed major outside of BSOE to switch into here. 
 
 ### What is Computer Science?
 
@@ -82,10 +84,15 @@ Both of the requirements are not terribly difficult, but they do require some pl
 
 - Arrian talk about this -- make similar to above
 - Discuss what is the CSGD major and what exactly do you do
-The Computer Science: Game Design degree is designed for students who hope to pursue a career in game design and related fields. CSGD majors take mostly the same 
+The Computer Science: Game Design degree is a degree offered by the Computational Media Department designed for students who hope to pursue a career in game design and related fields. CSGD majors take mostly the same lower division classes as CS majors (we don't need MATH23A/AM30 nor ECE30) plus some art/game classes(ARTG80G, FILM80V, and CMPM80K). That being said, the degree has a rigorous curriculum that requires devotion to complete. Students in the degree will be well acquainted with the game design loop, rapid prototyping, playtesting, game systems, and Scrum. YOU WILL BE CODING YOUR ASS OFF.
 
-**DO NOT APPLY OR SWITCH TO CSGD WITHOUT FIRST CONSULTING YOUR ADVISORS**
+Namely, Computer Science: Game Design degree is most known for its senior capstone series (CMPM 170- 172),an yearlong studio course where you work in a group of 6-12 fellow game design students to create a series of polished games/prototypes for your portfolio. Lectures are formatted to guide you as you progress through your production. After every sprint period, you will present your game and design processes to the TAs and Professors (and if you are lucky, you get to present to the entire class) and write a postmortem about your game.
 
+The course is also taught in conjunction with ARTG 170-172 (the AGPM degree capstone). So be sure to talk to AGPM majors as well. 
+
+Side Note: The state of the 170 series seems to be volatile right now due to some significant changes in the course format. If anything has changed, please contact me. 
+
+Additional Side Note: CSGD is offered by the Computational Media Department. Therefore, someon in CS:GD cannot switch into CS, but someone in CS could switch into CS:GD (there's no going back however). I believe it is common (and quite simple) to double major in CS and CSGD, so if you are interested in that, please consult your advisor. 
 
 ## Subjects
 
@@ -128,6 +135,14 @@ Some useful ones you should definitely consider learning.
 - LaTeX - Powerful and complex markup language.
 - Markdown - Fast, simple, and lightweight markup language.
 - HTML - The markup standard for web pages.
+
+Languages/Game Engines useful for CSGD students:
+
+C#/Unity - You will be using this in your capstone.
+C++/Unreal Engine - You can learn this
+Godot - You could learn this if you love FOSS.
+Javascript - Learn it. CMPM courses use this A LOT. Also look into P5.js and Twine.  
+GLSL/Shader DSL - Good to know, fun to learn.
 
 ## Graduation Requirements
 
@@ -220,6 +235,7 @@ Sometimes, if a student has good academic standing, they will get emailed to tak
 
 - Write introduction paragraph for locations on campus
 - Overnight, study, bathrooms, etc
+
 - Expand on this
 
 #### Study Locations
@@ -234,11 +250,48 @@ Rooms within the library can be reserved [here](https://guides.library.ucsc.edu/
 
 #### Overnight Areas
 
+
+- Night
+Science and Engineering Library (SnE)
+McHenry Library
+
+Places that get locked after midnight, so you need to get in before (If you are a night owl)
+- Jack's Lounge
+- DARC 308
+- Music Center
+
+Places you will need keycard access to and special privileges:
+- Any Lab in Baskin Engineering 1/2
+- (For CSGD/AGPM majors taking the capstone, you will have exclusive access to the Baskin Engineering 1 Game Labs)
+
+Places where it is comfortable to sleep in:
+
+- Baskin Engineering 1 1st floor couches
+- Jack's Lounge (if you a hard wood bench kinda person)
+- DARC 308
+- Music Center
+- Baskin Game labs
+- Literally anywhere with 2 chairs, a quiet atmosphere, and no people
+
+https://www.wikihow.com/Sleep-on-a-Chair
+
+So say you are someone who wants to get access to every room in Baskin. Work for BELS (Expand on this.)
+
+
+
 - Arrian's speciality add stuff here
 
 #### Bathrooms
 
 - Best and worst bathrooms (link to the reddit post lmao)
+
+Top 3 Best Restrooms
+
+1. Baskin Engineering 2 any floor
+
+2. Science and Engineering 2 3rd floor (All gender restrooms)
+
+3. ~~The woods~~ DARC Restrooms
 
 ### Services
 
