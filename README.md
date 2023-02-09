@@ -90,7 +90,7 @@ The course is also taught in conjunction with ARTG 170-172 (the AGPM degree caps
 
 Side Note \#1: The state of the 170 series seems to be volatile right now due to some significant changes in the course format. If anything has changed, please contact [me](https://github.com/dinoplane). 
 
-Side Note \#2: CSGD is offered by the Computational Media Department. Therefore, someon in CS:GD cannot switch into CS, but someone in CS could switch into CS:GD (there's no going back however). I believe it is common (and quite simple) to double major in CS and CSGD, so if you are interested in that, please consult your advisor. 
+Side Note \#2: CSGD is offered by the Computational Media Department. Therefore, someone in CS:GD cannot switch into CS, but someone in CS could switch into CS:GD (there's no going back however). It is common to double major in CS and CSGD, so if interested, consult your major advisor. 
 
 ## Subjects
 
