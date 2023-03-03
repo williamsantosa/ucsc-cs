@@ -76,7 +76,7 @@ Both the Bachelor of Art (B.A) and Bachelor of Science (B.S) in Computer Science
 
 It is easy to switch from a B.S to a B.A, however, switching from a B.A to B.S requires: 
 1. An appeal to the university
-2. Maintaing good academic standing (3.0 GPA)
+2. Maintaining good academic standing (3.0 GPA)
 
 Both of the requirements are not terribly difficult, but they do require some planning ahead of time.
 
