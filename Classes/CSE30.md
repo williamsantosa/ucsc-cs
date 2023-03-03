@@ -7,5 +7,6 @@ Difficulty: ![](../Media/2_5star.png)
 
 Remarks:
 
+- Language(s) used: Python
 - Similar to easy questions on LeetCode in difficulty
 - Be familiar with primitive data types (strings, integers, etc) and arrays/lists

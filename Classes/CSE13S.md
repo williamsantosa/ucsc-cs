@@ -7,5 +7,6 @@ Difficulty: ![](../Media/5star.png)
 
 Remarks:
 
+- Language(s) used: C
 - Hardest lower division class with Professor Long
 - Students say Professor Rudnick is slightly easier, albeit still difficult

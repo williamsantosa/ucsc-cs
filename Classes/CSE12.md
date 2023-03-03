@@ -7,5 +7,7 @@ Difficulty: ![](../Media/2_5star.png)
 
 Remarks:
 
+- Language(s) used: RISC-V, MIPS
 - First assembly language class
-- Uses either RISC-V or MIPS depending on Professor
+- Not too difficult, make sure pay attention in this class especially if you are a Computer Engineering major (lots of logic required later)
+- Concepts shared in STAT 131/CSE 107, CSE 120, etc
