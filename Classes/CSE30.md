@@ -7,6 +7,5 @@ Difficulty: ![](../Media/2_5star.png)
 
 Remarks:
 
-- Add extra notes here if needed
-- Extra notes (2)
-- Maybe add leetcode questions which could be useful for CSE30
+- Similar to easy questions on LeetCode in difficulty
+- Be familiar with primitive data types (strings, integers, etc) and arrays/lists
