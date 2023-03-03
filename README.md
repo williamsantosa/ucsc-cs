@@ -167,9 +167,17 @@ The classes at UCSC are structured such that the subject comes first, followed b
 | Writing                        | WRIT    |
 
 List of Classes:
-1. [CSE 12](Classes/CSE12.md)
-1. [CSE 20 - Beginning Programming in Python](Classes/CSE20.md)
-2. [CSE 30 - Programming Abstractions: Python](https://github.com/williamsantosa/ucsc-cs/blob/main/Classes/CSE30.md)
+1. [CSE 12 - Computer Systems and Assembly Language and Lab](Classes/CSE12.md)
+2. [CSE 13S - Comp Sys and C Program](Classes/CSE13S.md)
+3. [CSE 16 - Applied Discrete Mathematics](Classes/CSE16.md)
+4. [CSE 20 - Beginning Programming in Python](Classes/CSE20.md)
+5. [CSE 30 - Programming Abstractions: Python](Classes/CSE30.md)
+6. [CSE101 - Introduction to Data Structures and Algorithms](Classes/CSE101.md)
+7. [CSE102 - Introduction to Analysis of Algorithms](Classes/CSE102.md)
+8. [CSE103 - Computational Models](Classes/CSE103.md)
+9. [CSE120 - Computer Architecture](Classes/CSE120.md)
+10. [CSE160 - Introduction to Computer Graphics](Classes/CSE160.md)
+11. [CSE186 - Full Stack Web Development I](Classes/CSE186.md)
 
 ## Professors
 
