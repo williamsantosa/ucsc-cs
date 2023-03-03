@@ -7,5 +7,7 @@ Difficulty: ![](../Media/2star.png)
 
 Remarks:
 
-- Add extra notes here if needed
-- Extra notes (2)
+- Language(s) used: Python
+- Teaches core concepts in programming
+- Difficult for new programmers but easy for more experienced ones
+  - Recommended to test out if you have any experience in programming before
