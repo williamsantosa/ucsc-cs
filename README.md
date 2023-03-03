@@ -167,7 +167,8 @@ The classes at UCSC are structured such that the subject comes first, followed b
 | Writing                        | WRIT    |
 
 List of Classes:
-1. [CSE 20 - Beginning Programming in Python](https://github.com/williamsantosa/ucsc-cs/blob/main/Classes/CSE20.md)
+1. [CSE 12](Classes/CSE12.md)
+1. [CSE 20 - Beginning Programming in Python](Classes/CSE20.md)
 2. [CSE 30 - Programming Abstractions: Python](https://github.com/williamsantosa/ucsc-cs/blob/main/Classes/CSE30.md)
 
 ## Professors
