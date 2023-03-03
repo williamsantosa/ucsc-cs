@@ -10,3 +10,9 @@ Remarks:
 - Language(s) used: Python
 - Similar to easy questions on LeetCode in difficulty
 - Be familiar with primitive data types (strings, integers, etc) and arrays/lists
+
+Relevant LeetCode Problems:
+- [Binary Trees](https://leetcode.com/tag/binary-tree/)
+- [Depth First Search](https://leetcode.com/tag/depth-first-search/)
+- [Linked Lists](https://leetcode.com/tag/linked-list/)
+- [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)
