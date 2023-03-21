@@ -2,6 +2,9 @@
 
 The limit of a function, calculating limits, continuity, tangents, velocities, and other instantaneous rates of change. Derivatives, the chain rule, implicit differentiation, higher derivatives. Exponential functions, inverse functions, and their derivatives. The mean value theorem, monotonic functions, concavity, and points of inflection. Applied maximum and minimum problems. Students cannot receive credit for both this course and MATH 11A, or AM 11A, or AM 15A, or ECON 11A.
 
+Prerequisites:
+
+- [MATH 19A](MATH19A.md) or MATH 20A or AP Calculus AB exam score of 4 or 5 or BC exam score of 3 or higher or IB Mathematics Higher Level Exam Score of 5 or higher
 
 Quality: 
 
