@@ -1,6 +1,6 @@
 # Professor Darrell Long ([RateMyProfessor](https://www.ratemyprofessors.com/professor?tid=304658))
 
-Distinguished, longtime Professor at the University of California, Santa Cruz. Has a lot of experience with computers, storage systems, performance, etc. More information can be found [here](http://darrell.soe.ucsc.edu/). Recently stopped teaching as of end of Winter 2023 quarter.
+Distinguished Professor. Lots of experience with computers, storage systems, performance, etc. More information can be found [here](http://darrell.soe.ucsc.edu/). Recently stopped teaching as of end of Winter 2023 quarter.
 
 Quality: 
 
