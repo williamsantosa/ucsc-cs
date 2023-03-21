@@ -8,13 +8,13 @@ This guide is intended to be read by prospective computer science students and i
 
 ## Contributors
 
-Authors: 
-- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa) 
+Authors:
+- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa)
 - Gregory Santosa - [Email](mailto:gs2396@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/gregory-santosa/) | [GitHub](https://github.com/gregorysantosa)
-- Arrian Chi - [Email](mailto:isacsac2017@gmail.com) | [Website](https://aliendino.netlify.app/) | [GitHub](https://github.com/dinoplane)
+- Arrian Chi - [Email](mailto:isacsac2017@gmail.com) | [Website](https://aliendino.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/arrian-chi-571219210/) | [GitHub](https://github.com/dinoplane)h
 
 Media:
-- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa) 
+- William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa)
 
 ## Table of Contents
 
@@ -64,7 +64,7 @@ The University of California, Santa Cruz, is well known for its beautiful campus
 
 Computer science at UCSC is impacted, meaning that it is a very popular, difficult major to get admitted into. Unfortunately, this also means that switching into computer science (after you have applied) is very difficult. If you want to major in CS and were not admitted, it is a good idea to take another offer that allows you to do CS. Alternatively, you can also do two years of community college and transfer as a junior. That way, you will can get a degree in CS while also saving money.
 
-Additional Note: Majors offered by the Baskin School of Engineering are also impacted, making it difficult for students admitted to a proposed major outside of BSOE to switch in. 
+Additional Note: Majors offered by the Baskin School of Engineering are also impacted, making it difficult for students admitted to a proposed major outside of BSOE to switch in.
 
 ### What is Computer Science?
 
@@ -74,7 +74,7 @@ Additional Note: Majors offered by the Baskin School of Engineering are also imp
 
 Both the Bachelor of Art (B.A) and Bachelor of Science (B.S) in Computer Science are great degrees. They are crafted such that students are exposed to "a rigorous curriculum" ([Registrar](https://registrar.ucsc.edu/catalog/archive/15-16/programs-courses/program-statements/cmps.html)) and their lower division requirements are practically the same. All students have to complete the same Math courses (save for Math 23A), the same Computer Science & Engineering (CSE) courses, and complete CSE 101 in order to graduate. However, the B.A degree offers more flexibility in the upper division electives allowed, while the B.S is designed to prepare the student for research and post-undergraduate programs.
 
-It is easy to switch from a B.S to a B.A, however, switching from a B.A to B.S requires: 
+It is easy to switch from a B.S to a B.A, however, switching from a B.A to B.S requires:
 1. An appeal to the university
 2. Maintaining good academic standing (3.0 GPA)
 
@@ -86,11 +86,11 @@ The Computer Science: Game Design degree is a degree offered by the Computationa
 
 The CSGD degree is most known for its senior capstone series (CMPM 170- 172), a year-long studio course where students work in a group of 6-12 people to create a series of polished games/prototypes for your portfolio. Lectures are formatted to guide you as you progress through your production. After every sprint period, students present their game and design processes to the TAs and Professors (and if you are lucky, you get to present to the entire class) and write a postmortem about your game.
 
-The course is also taught in conjunction with ARTG 170-172 (the AGPM degree capstone), making it important to connect with AGPM majors as well. 
+The course is also taught in conjunction with ARTG 170-172 (the AGPM degree capstone), making it important to connect with AGPM majors as well.
 
-Side Note \#1: The state of the 170 series seems to be volatile right now due to some significant changes in the course format. If anything has changed, please contact [me](https://github.com/dinoplane). 
+Side Note \#1: The state of the 170 series seems to be volatile right now due to some significant changes in the course format. If anything has changed, please contact [me](https://github.com/dinoplane).
 
-Side Note \#2: CSGD is offered by the Computational Media Department. Therefore, someone in CS:GD cannot switch into CS, but someone in CS could switch into CS:GD (there's no going back however). It is common to double major in CS and CSGD, so if interested, consult your major advisor. 
+Side Note \#2: CSGD is offered by the Computational Media Department. Therefore, someone in CS:GD cannot switch into CS, but someone in CS could switch into CS:GD (there's no going back however). It is common to double major in CS and CSGD, so if interested, consult your major advisor.
 
 ## Subjects
 
@@ -117,7 +117,7 @@ You will definitely use these languages.
 
 - Python - High-level language. Slow to compute but fast to write.
 - C - Low-level language. Blazingly fast but slow to write. Prone to many errors.
-- C++ - Intermediate-level language. Easier to write in relative to C but trades some performance as a result. 
+- C++ - Intermediate-level language. Easier to write in relative to C but trades some performance as a result.
 - MIPS / RISC-V - Assembly language. Will be used in Computer Architecture classes (CSE 12/120).
 
 Depending on your interests, you may use these languages.
@@ -139,7 +139,7 @@ Languages and Game Engines useful for CSGD students:
 - C#/Unity - Used in capstone project.
 - C++/Unreal Engine - Complicated, powerful engine.
 - Godot - Learn if you love FOSS.
-- Javascript - Learn it. CMPM courses use this A LOT. Also look into P5.js and Twine.  
+- Javascript - Learn it. CMPM courses use this A LOT. Also look into P5.js and Twine.
 - GLSL/Shader DSL - Good to know, fun to learn.
 
 ## Graduation Requirements
@@ -322,7 +322,7 @@ There are a lot of useful services at UCSC, here are a few.
 
 #### Counseling & Psychological Services (CAPS)
 
-Provides counseling for mental health issues. Their website can be found [here](https://caps.ucsc.edu/). 
+Provides counseling for mental health issues. Their website can be found [here](https://caps.ucsc.edu/).
 
 #### Slug Support Pantry
 
