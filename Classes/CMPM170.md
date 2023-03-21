@@ -1,0 +1,20 @@
+# CMPM170-172 - Game Design Studio
+
+A three-course capstone sequence for the computer game design program. Students work in teams to develop a comprehensive game design for a substantial computer game, including detailed storyline, level design, artistic approach, implementation technologies, and art-asset pipeline. Emphasis placed on creating novel, artistic game design concepts. Includes design reviews and formal presentations. Companion lectures cover advanced topics in game design, game programming, and software project management.
+
+Quality:
+
+![](../Media/4star.png)
+
+Difficulty:
+
+![](../Media/5star.png)
+
+Remarks:
+
+- Language(s) used: C#, C++, Javascript, etc.
+- Frameworks used: Unity, Unreal, Godot, etc.
+- Make games/prototypes. Present. Repeat.
+- Take easy electives with your capstone because it WILL eat up all your time
+
+# Insert my long rant about the game design program here
