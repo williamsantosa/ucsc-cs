@@ -2,6 +2,10 @@
 
 Problem solving emphasizing recursion, data abstraction, and higher-order functions. Introduction to types and type checking, modular programming, and reasoning about program correctness. Prerequisite(s): CSE or CMPS 101
 
+Prerequisites:
+
+- [CSE 101](CSE101.md)
+
 Quality: 
 
 ![](../Media/4_5star.png)

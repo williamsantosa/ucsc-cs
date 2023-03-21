@@ -2,6 +2,10 @@
 
 Vectors in n-dimensional Euclidean space. The inner and cross products. The derivative of functions from n-dimensional to m-dimensional Euclidean space is studied as a linear transformation having matrix representation. Paths in 3-dimensions, arc length, vector differential calculus, Taylor's theorem in several variables, extrema of real-valued functions, constrained extrema and Lagrange multipliers, the implicit function theorem, some applications. Students cannot receive credit for this course and MATH 22 or AM 30.
 
+Prerequisites:
+
+- [MATH 19B](MATH19B.md) or MATH 20B or AP Calculus BC exam score of 4 or 5
+
 Quality: 
 
 ![](../Media/3_5star.png)

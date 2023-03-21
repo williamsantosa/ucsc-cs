@@ -2,6 +2,13 @@
 
 A three-course capstone sequence for the computer game design program. Students work in teams to develop a comprehensive game design for a substantial computer game, including detailed storyline, level design, artistic approach, implementation technologies, and art-asset pipeline. Emphasis placed on creating novel, artistic game design concepts. Includes design reviews and formal presentations. Companion lectures cover advanced topics in game design, game programming, and software project management.
 
+Prerequisites:
+
+- Satisfaction of Entry Level Writing and Composition Requirements
+- [CMPM 120](CMPM120.md)
+- ARTG 120
+- CSE 111
+
 Quality:
 
 ![](../Media/4star.png)
