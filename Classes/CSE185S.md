@@ -12,6 +12,7 @@ Difficulty:
 
 Remarks:
 
+- Same exact class as 185E
 - Easy class to pass
 - Allow for resubmission for higher grade unlimited times until end of quarter
 - Always taught by Professor Gerald Moulds
