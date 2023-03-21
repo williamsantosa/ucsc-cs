@@ -11,7 +11,7 @@ This guide is intended to be read by prospective computer science students and i
 Authors:
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa)
 - Gregory Santosa - [Email](mailto:gs2396@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/gregory-santosa/) | [GitHub](https://github.com/gregorysantosa)
-- Arrian Chi - [Email](mailto:isacsac2017@gmail.com) | [Website](https://aliendino.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/arrian-chi-571219210/) | [GitHub](https://github.com/dinoplane)h
+- Arrian Chi - [Email](mailto:isacsac2017@gmail.com) | [Website](https://aliendino.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/arrian-chi-571219210/) | [GitHub](https://github.com/dinoplane)
 
 Media:
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa)
@@ -334,8 +334,7 @@ Provides many different services, such as vans, counseling, and DRC status for e
 
 ## Acknowledgements
 
-Thank you to ... `<insert people here>`
-- Add some people lol
+Thank you to our Professors for the wonderful education.
 
 ## Further Learning Material
 
