@@ -19,4 +19,4 @@ Remarks:
 - Make 2 webgames and upload them on itch.io
 - Taught back to back with ARTG120, Game Design Experience
 - Learn how specific game mechanics are implemented and utilize operational logics for creative expression.
-- (Try to convince your instructor to use Unity/Unreal to prepare for the capstone!!!)
+- Convince your instructor to use Unity/Unreal
