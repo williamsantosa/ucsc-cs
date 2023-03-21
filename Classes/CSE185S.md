@@ -2,6 +2,12 @@
 
 Writing by engineers and computer scientists, not to general audiences, but to engineers, engineering managers, and technical writers. Exercises include job application and resume, in-code documentation, algorithm description, naive-user documentation, library puzzle, survey article, proposal, progress report, formal technical report, and oral presentation. Students cannot receive credit for this course and CSE 185E. (Formerly Computer Engineering 185)
 
+Prerequisites:
+
+- [CSE 101](CSE101.md)
+- One upper-division CSE course
+- Satisfaction of Entry Level Writing and Composition Requirements
+
 Quality: 
 
 ![](../Media/4star.png)
