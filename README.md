@@ -134,13 +134,13 @@ Some useful ones you should definitely consider learning.
 - Markdown - Fast, simple, and lightweight markup language.
 - HTML - The markup standard for web pages.
 
-Languages/Game Engines useful for CSGD students:
+Languages and Game Engines useful for CSGD students:
 
-C#/Unity - Used in capstone project.
-C++/Unreal Engine - Complicated, powerful engine.
-Godot - Learn if you love FOSS.
-Javascript - Learn it. CMPM courses use this A LOT. Also look into P5.js and Twine.  
-GLSL/Shader DSL - Good to know, fun to learn.
+- C#/Unity - Used in capstone project.
+- C++/Unreal Engine - Complicated, powerful engine.
+- Godot - Learn if you love FOSS.
+- Javascript - Learn it. CMPM courses use this A LOT. Also look into P5.js and Twine.  
+- GLSL/Shader DSL - Good to know, fun to learn.
 
 ## Graduation Requirements
 
@@ -167,6 +167,7 @@ The classes at UCSC are structured such that the subject comes first, followed b
 | Writing                        | WRIT    |
 
 List of Classes:
+
 1. [AM 10 - Mathematical Methods for Engineers I](Classes/AM10.md)
 2. [CSE 12 - Computer Systems and Assembly Language and Lab](Classes/CSE12.md)
 3. [CSE 13S - Comp Sys and C Program](Classes/CSE13S.md)
@@ -193,7 +194,13 @@ List of Classes:
 There are plenty of Professors at UCSC, all of which are notable in their own field of study. Below are some of the Professors you may meet.
 
 List of Professors:
-1. [Darell Long](https://github.com/williamsantosa/ucsc-cs/blob/main/Professors/DarellLong.md)
+
+1. [Darrell Long](Professors/Darrell_Long.md)
+2. [David Harrison](Professors/David_Harrison.md)
+3. [Gerald Moulds](Professors/Gerald_Moulds.md)
+4. [Lindsey Kuper](Professors/Lindsey_Kuper.md)
+5. [Sagnik Nath](Professors/Sagnik_Nath.md)
+6. [Patrick Tantalo](Professors/Tantalo_Patrick.md)
 
 ## Preparing for University
 
