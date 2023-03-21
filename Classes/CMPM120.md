@@ -1,4 +1,4 @@
-# CMPM120 - Game Development Experience
+# CMPM 120 - Game Development Experience
 
 Teaches the concrete programming and collaboration skills associated with making a digital game from start to finish, including but not limited to: establishing a team, concepting, storyboarding, prototyping, producing, and testing a game for release. Students are organized into groups and work together to create and produce a playable game. This course is taught in conjunction with ARTG 120 which covers the skills required to design and critique digital games.
 
