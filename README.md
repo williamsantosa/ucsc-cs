@@ -167,17 +167,26 @@ The classes at UCSC are structured such that the subject comes first, followed b
 | Writing                        | WRIT    |
 
 List of Classes:
-1. [CSE 12 - Computer Systems and Assembly Language and Lab](Classes/CSE12.md)
-2. [CSE 13S - Comp Sys and C Program](Classes/CSE13S.md)
-3. [CSE 16 - Applied Discrete Mathematics](Classes/CSE16.md)
-4. [CSE 20 - Beginning Programming in Python](Classes/CSE20.md)
-5. [CSE 30 - Programming Abstractions: Python](Classes/CSE30.md)
-6. [CSE101 - Introduction to Data Structures and Algorithms](Classes/CSE101.md)
-7. [CSE102 - Introduction to Analysis of Algorithms](Classes/CSE102.md)
-8. [CSE103 - Computational Models](Classes/CSE103.md)
-9. [CSE120 - Computer Architecture](Classes/CSE120.md)
-10. [CSE160 - Introduction to Computer Graphics](Classes/CSE160.md)
-11. [CSE186 - Full Stack Web Development I](Classes/CSE186.md)
+1. [AM 10 - Mathematical Methods for Engineers I](Classes/AM10.md)
+2. [CSE 12 - Computer Systems and Assembly Language and Lab](Classes/CSE12.md)
+3. [CSE 13S - Comp Sys and C Program](Classes/CSE13S.md)
+4. [CSE 16 - Applied Discrete Mathematics](Classes/CSE16.md)
+5. [CSE 20 - Beginning Programming in Python](Classes/CSE20.md)
+6. [CSE 30 - Programming Abstractions: Python](Classes/CSE30.md)
+7. [CSE 101 - Introduction to Data Structures and Algorithms](Classes/CSE101.md)
+8. [CSE 102 - Introduction to Analysis of Algorithms](Classes/CSE102.md)
+9. [CSE 103 - Computational Models](Classes/CSE103.md)
+10. [CSE 114A - Foundations of Programming Languages](Classes/CSE114A.md)
+11. [CSE 120 - Computer Architecture](Classes/CSE120.md)
+12. [CSE 130 - Principles of Computer Systems Design](Classes/CSE130.md)
+13. [CSE 160 - Introduction to Computer Graphics](Classes/CSE160.md)
+14. [CSE 180 - Database Systems I](Classes/CSE180.md)
+15. [CSE 185S - Technical Writing and Communication in Computer Science](Classes/CSE185S.md)
+16. [CSE 186 - Full Stack Web Development I](Classes/CSE186.md)
+17. [MATH 19A - Calculus for Science, Engineering, and Mathematics](Classes/MATH19A.md)
+18. [MATH 19B - Calculus for Science, Engineering, and Mathematics](Classes/MATH19B.md)
+19. [MATH 23A - Vector Calculus](Classes/MATH23A.md)
+20. [STAT 131 - Introduction to Probability Theory](Classes/STAT131.md)
 
 ## Professors
 
