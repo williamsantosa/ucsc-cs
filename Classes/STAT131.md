@@ -12,7 +12,7 @@ Quality:
 
 Difficulty: 
 
-![](../Media/4star.png)
+![](../Media/4.5star.png)
 
 Remarks:
 
