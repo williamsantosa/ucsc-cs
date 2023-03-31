@@ -1,16 +1,16 @@
 # CSE 114A - Foundations of Programming Languages
 
-Problem solving emphasizing recursion, data abstraction, and higher-order functions. Introduction to types and type checking, modular programming, and reasoning about program correctness. Prerequisite(s): CSE or CMPS 101
+Problem solving emphasizing recursion, data abstraction, and higher-order functions. Introduction to types and type checking, modular programming, and reasoning about program correctness.
 
 Prerequisites:
 
 - [CSE 101](CSE101.md)
 
-Quality: 
+Quality:
 
 ![](../Media/4_5star.png)
 
-Difficulty: 
+Difficulty:
 
 ![](../Media/4star.png)
 
