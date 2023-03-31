@@ -1,16 +1,16 @@
 # CSE 16 - Applied Discrete Mathematics
 
-Introduction to applications of discrete mathematical systems. Topics include sets, functions, relations, graphs, predicate calculus, mathematical proof methods (induction, contraposition, contradiction), counting methods (permutations, combinations), and recurrences. Examples are drawn from computer science and computer engineering. Knowledge of computer programming is useful before taking this course. Students who do not have prior programming experience are strongly recommended to take CSE 20 or CSE 30 before taking this course. Prerequisite(s): MATH 19A or MATH 19B or MATH 11B or AM 11B or AM 15B or ECON 11B.
+Introduction to applications of discrete mathematical systems. Topics include sets, functions, relations, graphs, predicate calculus, mathematical proof methods (induction, contraposition, contradiction), counting methods (permutations, combinations), and recurrences. Examples are drawn from computer science and computer engineering. Knowledge of computer programming is useful before taking this course. Students who do not have prior programming experience are strongly recommended to take CSE 20 or CSE 30 before taking this course.
 
 Prerequisites:
 
 - [MATH 19A](MATH19A.md) or [MATH 19B](MATH19B.md) or MATH 11B or AM 11B or AM 15B or ECON 11B
 
-Quality: 
+Quality:
 
 ![](../Media/4_5star.png)
 
-Difficulty: 
+Difficulty:
 
 ![](../Media/3star.png)
 
