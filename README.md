@@ -150,9 +150,13 @@ Everyone wants to graduate... which means it is imperative that you plan out you
 
 General education requirements can be found [here](https://registrar.ucsc.edu/enrollment/general-education-requirements.html) at the Registrar. It is recommended that you do not rush through the GEs as they can be finished quite quickly if you take 1 or 2 per quarter. Instead, space them out throughout your undergraduate career, as they are useful in padding classes during difficult quarters.
 
-### Major Requirements (2022-2023)
+### Major Requirements (2022-2023) 
 
-The curriculum charts can be found [here](https://undergrad.soe.ucsc.edu/curriculum-charts) at the university's webpage. More specifically, [B.S in Computer Science](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CS_BS_22-23.pdf), [B.A in Computer Science](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CS_BA_22-23.pdf), and [B.S in Computer Science: Computer Game Design](https://undergrad.soe.ucsc.edu/sites/default/files/curriculum-charts/2022-09/CSGD_BS_22-23.pdf).
+The curriculum charts can be found [here](https://undergrad.soe.ucsc.edu/curriculum-charts) at the university's webpage. More specifically, [B.S in Computer Science](https://bpb-us-w2.wpmucdn.com/wordpress.ucsc.edu/dist/2/88/files/2023/08/CS_BS_22-23.pdf), [B.A in Computer Science](https://bpb-us-w2.wpmucdn.com/wordpress.ucsc.edu/dist/2/88/files/2023/08/CS_BA_22-23.pdf), and [B.S in Computer Science: Computer Game Design](https://bpb-us-w2.wpmucdn.com/wordpress.ucsc.edu/dist/2/88/files/2023/08/CSGD_BS_22-23.pdf). 
+
+### Major Requirements (2023-2024) 
+
+The curriculum charts can be found [here](https://undergrad.soe.ucsc.edu/curriculum-charts) at the university's webpage. More specifically, [B.S in Computer Science](https://bpb-us-w2.wpmucdn.com/wordpress.ucsc.edu/dist/2/88/files/2023/09/CS_BS_23-24.pdf), [B.A in Computer Science](https://bpb-us-w2.wpmucdn.com/wordpress.ucsc.edu/dist/2/88/files/2023/09/CS_BA_23-24.pd), and [B.S in Computer Science: Computer Game Design](https://bpb-us-w2.wpmucdn.com/wordpress.ucsc.edu/dist/2/88/files/2023/09/CSGD_BS_23-24.pdf).
 
 ## Classes
 
