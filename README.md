@@ -11,7 +11,7 @@ This guide is intended to be read by prospective computer science students and i
 Authors:
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa)
 - Gregory Santosa - [Email](mailto:gs2396@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/gregory-santosa/) | [GitHub](https://github.com/gregorysantosa)
-- Arrian Chi - [Email](mailto:isacsac2017@gmail.com) | [Website](https://aliendino.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/arrian-chi-571219210/) | [GitHub](https://github.com/dinoplane)
+- Arrian Chi - [Email](mailto:alienchi@ucla.edu) | [Website](https://dinoplane.github.io/) | [LinkedIn](https://www.linkedin.com/in/arrian-chi-571219210/) | [GitHub](https://github.com/dinoplane)
 
 Media:
 - William Santosa - [Email](mailto:williamwsantosa@gmail.com) | [Website](https://williamsantosa.github.io/williamsantosa-website/) | [LinkedIn](https://www.linkedin.com/in/williamsantosa/) | [GitHub](https://github.com/williamsantosa)
